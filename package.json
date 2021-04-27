@@ -1,0 +1,27 @@
+{
+  "name": "lospalabras",
+  "version": "1.0.0",
+  "description": "A program to help me study Spanish.",
+  "main": "palabras.js",
+  "dependencies": {
+    "bottleneck": "^2.19.5",
+    "fs": "^0.0.1-security",
+    "most-common-words-by-language": "^3.0.3",
+    "node-fetch": "^2.6.1",
+    "translate": "^1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iworkinpixels/lospalabras.git"
+  },
+  "author": "Tony Sherwood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iworkinpixels/lospalabras/issues"
+  },
+  "homepage": "https://github.com/iworkinpixels/lospalabras#readme"
+}

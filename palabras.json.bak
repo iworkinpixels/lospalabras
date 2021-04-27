@@ -1,0 +1,6002 @@
+{
+ "0": {
+  "rank": 1,
+  "type": "",
+  "word": "que",
+  "en": "that"
+ },
+ "1": {
+  "rank": 2,
+  "type": "",
+  "word": "de",
+  "en": "of"
+ },
+ "2": {
+  "rank": 3,
+  "type": "",
+  "word": "no",
+  "en": "No."
+ },
+ "3": {
+  "rank": 4,
+  "type": "",
+  "word": "a",
+  "en": "a"
+ },
+ "4": {
+  "rank": 5,
+  "type": "",
+  "word": "la",
+  "en": "the"
+ },
+ "5": {
+  "rank": 6,
+  "type": "",
+  "word": "el",
+  "en": "the"
+ },
+ "6": {
+  "rank": 7,
+  "type": "",
+  "word": "es",
+  "en": "That's it."
+ },
+ "7": {
+  "rank": 8,
+  "type": "",
+  "word": "y",
+  "en": "and"
+ },
+ "8": {
+  "rank": 9,
+  "type": "",
+  "word": "en",
+  "en": "in"
+ },
+ "9": {
+  "rank": 10,
+  "type": "",
+  "word": "lo",
+  "en": "I do."
+ },
+ "10": {
+  "rank": 11,
+  "type": "",
+  "word": "un",
+  "en": "One"
+ },
+ "11": {
+  "rank": 12,
+  "type": "",
+  "word": "por",
+  "en": "for"
+ },
+ "12": {
+  "rank": 13,
+  "type": "",
+  "word": "qué",
+  "en": "What?"
+ },
+ "13": {
+  "rank": 14,
+  "type": "",
+  "word": "me",
+  "en": "I'll get it."
+ },
+ "14": {
+  "rank": 15,
+  "type": "",
+  "word": "una",
+  "en": "One"
+ },
+ "15": {
+  "rank": 16,
+  "type": "",
+  "word": "te",
+  "en": "you"
+ },
+ "16": {
+  "rank": 17,
+  "type": "",
+  "word": "los",
+  "en": "the"
+ },
+ "17": {
+  "rank": 18,
+  "type": "",
+  "word": "se",
+  "en": "♪"
+ },
+ "18": {
+  "rank": 19,
+  "type": "",
+  "word": "con",
+  "en": "with"
+ },
+ "19": {
+  "rank": 20,
+  "type": "",
+  "word": "para",
+  "en": "for"
+ },
+ "20": {
+  "rank": 21,
+  "type": "",
+  "word": "mi",
+  "en": "my"
+ },
+ "21": {
+  "rank": 22,
+  "type": "",
+  "word": "está",
+  "en": "There."
+ },
+ "22": {
+  "rank": 23,
+  "type": "",
+  "word": "si",
+  "en": "Yeah."
+ },
+ "23": {
+  "rank": 24,
+  "type": "",
+  "word": "bien",
+  "en": "Good."
+ },
+ "24": {
+  "rank": 25,
+  "type": "",
+  "word": "pero",
+  "en": "but"
+ },
+ "25": {
+  "rank": 26,
+  "type": "",
+  "word": "yo",
+  "en": "Me."
+ },
+ "26": {
+  "rank": 27,
+  "type": "",
+  "word": "eso",
+  "en": "That's it."
+ },
+ "27": {
+  "rank": 28,
+  "type": "",
+  "word": "las",
+  "en": "the"
+ },
+ "28": {
+  "rank": 29,
+  "type": "",
+  "word": "sí",
+  "en": "Yes."
+ },
+ "29": {
+  "rank": 30,
+  "type": "",
+  "word": "su",
+  "en": "his"
+ },
+ "30": {
+  "rank": 31,
+  "type": "",
+  "word": "tu",
+  "en": "You"
+ },
+ "31": {
+  "rank": 32,
+  "type": "",
+  "word": "aquí",
+  "en": "here."
+ },
+ "32": {
+  "rank": 33,
+  "type": "",
+  "word": "del",
+  "en": "of"
+ },
+ "33": {
+  "rank": 34,
+  "type": "",
+  "word": "al",
+  "en": "Al"
+ },
+ "34": {
+  "rank": 35,
+  "type": "",
+  "word": "como",
+  "en": "Like"
+ },
+ "35": {
+  "rank": 36,
+  "type": "",
+  "word": "le",
+  "en": "He"
+ },
+ "36": {
+  "rank": 37,
+  "type": "",
+  "word": "más",
+  "en": "more more"
+ },
+ "37": {
+  "rank": 38,
+  "type": "",
+  "word": "esto",
+  "en": "this"
+ },
+ "38": {
+  "rank": 39,
+  "type": "",
+  "word": "ya",
+  "en": "already."
+ },
+ "39": {
+  "rank": 40,
+  "type": "",
+  "word": "todo",
+  "en": "Everything."
+ },
+ "40": {
+  "rank": 41,
+  "type": "",
+  "word": "esta",
+  "en": "This is it."
+ },
+ "41": {
+  "rank": 42,
+  "type": "",
+  "word": "vamos",
+  "en": "Come on."
+ },
+ "42": {
+  "rank": 43,
+  "type": "",
+  "word": "muy",
+  "en": "Very."
+ },
+ "43": {
+  "rank": 44,
+  "type": "",
+  "word": "hay",
+  "en": "There is"
+ },
+ "44": {
+  "rank": 45,
+  "type": "",
+  "word": "ahora",
+  "en": "now"
+ },
+ "45": {
+  "rank": 46,
+  "type": "",
+  "word": "algo",
+  "en": "Something."
+ },
+ "46": {
+  "rank": 47,
+  "type": "",
+  "word": "estoy",
+  "en": "I am."
+ },
+ "47": {
+  "rank": 48,
+  "type": "",
+  "word": "tengo",
+  "en": "Got it."
+ },
+ "48": {
+  "rank": 49,
+  "type": "",
+  "word": "nos",
+  "en": "us."
+ },
+ "49": {
+  "rank": 50,
+  "type": "",
+  "word": "tú",
+  "en": "♪"
+ },
+ "50": {
+  "rank": 51,
+  "type": "",
+  "word": "nada",
+  "en": "Nothing."
+ },
+ "51": {
+  "rank": 52,
+  "type": "",
+  "word": "cuando",
+  "en": "When"
+ },
+ "52": {
+  "rank": 53,
+  "type": "",
+  "word": "ha",
+  "en": "ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha"
+ },
+ "53": {
+  "rank": 54,
+  "type": "",
+  "word": "este",
+  "en": "this"
+ },
+ "54": {
+  "rank": 55,
+  "type": "",
+  "word": "sé",
+  "en": "I know."
+ },
+ "55": {
+  "rank": 56,
+  "type": "",
+  "word": "estás",
+  "en": "You are."
+ },
+ "56": {
+  "rank": 57,
+  "type": "",
+  "word": "así",
+  "en": "like this."
+ },
+ "57": {
+  "rank": 58,
+  "type": "",
+  "word": "puedo",
+  "en": "I can."
+ },
+ "58": {
+  "rank": 59,
+  "type": "",
+  "word": "cómo",
+  "en": "how"
+ },
+ "59": {
+  "rank": 60,
+  "type": "",
+  "word": "quiero",
+  "en": "I want to."
+ },
+ "60": {
+  "rank": 61,
+  "type": "",
+  "word": "sólo",
+  "en": "only"
+ },
+ "61": {
+  "rank": 62,
+  "type": "",
+  "word": "soy",
+  "en": "I am."
+ },
+ "62": {
+  "rank": 63,
+  "type": "",
+  "word": "tiene",
+  "en": "He's got a problem."
+ },
+ "63": {
+  "rank": 64,
+  "type": "",
+  "word": "gracias",
+  "en": "Thank you."
+ },
+ "64": {
+  "rank": 65,
+  "type": "",
+  "word": "o",
+  "en": "or"
+ },
+ "65": {
+  "rank": 66,
+  "type": "",
+  "word": "él",
+  "en": "Him."
+ },
+ "66": {
+  "rank": 67,
+  "type": "",
+  "word": "bueno",
+  "en": "Good."
+ },
+ "67": {
+  "rank": 68,
+  "type": "",
+  "word": "fue",
+  "en": "It was"
+ },
+ "68": {
+  "rank": 69,
+  "type": "",
+  "word": "ser",
+  "en": "to be"
+ },
+ "69": {
+  "rank": 70,
+  "type": "",
+  "word": "hacer",
+  "en": "make it"
+ },
+ "70": {
+  "rank": 71,
+  "type": "",
+  "word": "son",
+  "en": "They are."
+ },
+ "71": {
+  "rank": 72,
+  "type": "",
+  "word": "todos",
+  "en": "all"
+ },
+ "72": {
+  "rank": 73,
+  "type": "",
+  "word": "era",
+  "en": "It was"
+ },
+ "73": {
+  "rank": 74,
+  "type": "",
+  "word": "eres",
+  "en": "You are."
+ },
+ "74": {
+  "rank": 75,
+  "type": "",
+  "word": "vez",
+  "en": "♪"
+ },
+ "75": {
+  "rank": 76,
+  "type": "",
+  "word": "tienes",
+  "en": "You got it."
+ },
+ "76": {
+  "rank": 77,
+  "type": "",
+  "word": "creo",
+  "en": "I think"
+ },
+ "77": {
+  "rank": 78,
+  "type": "",
+  "word": "ella",
+  "en": "She is."
+ },
+ "78": {
+  "rank": 79,
+  "type": "",
+  "word": "he",
+  "en": "I"
+ },
+ "79": {
+  "rank": 80,
+  "type": "",
+  "word": "ese",
+  "en": "That one."
+ },
+ "80": {
+  "rank": 81,
+  "type": "",
+  "word": "voy",
+  "en": "I'll go."
+ },
+ "81": {
+  "rank": 82,
+  "type": "",
+  "word": "puede",
+  "en": "can."
+ },
+ "82": {
+  "rank": 83,
+  "type": "",
+  "word": "sabes",
+  "en": "You know,"
+ },
+ "83": {
+  "rank": 84,
+  "type": "",
+  "word": "hola",
+  "en": "Hello."
+ },
+ "84": {
+  "rank": 85,
+  "type": "",
+  "word": "sus",
+  "en": "so."
+ },
+ "85": {
+  "rank": 86,
+  "type": "",
+  "word": "porque",
+  "en": "Because"
+ },
+ "86": {
+  "rank": 87,
+  "type": "",
+  "word": "dios",
+  "en": "God."
+ },
+ "87": {
+  "rank": 88,
+  "type": "",
+  "word": "quién",
+  "en": "who"
+ },
+ "88": {
+  "rank": 89,
+  "type": "",
+  "word": "nunca",
+  "en": "Never."
+ },
+ "89": {
+  "rank": 90,
+  "type": "",
+  "word": "dónde",
+  "en": "where"
+ },
+ "90": {
+  "rank": 91,
+  "type": "",
+  "word": "quieres",
+  "en": "You want to love me."
+ },
+ "91": {
+  "rank": 92,
+  "type": "",
+  "word": "casa",
+  "en": "house"
+ },
+ "92": {
+  "rank": 93,
+  "type": "",
+  "word": "favor",
+  "en": "Please"
+ },
+ "93": {
+  "rank": 94,
+  "type": "",
+  "word": "esa",
+  "en": "That one."
+ },
+ "94": {
+  "rank": 95,
+  "type": "",
+  "word": "dos",
+  "en": "Two."
+ },
+ "95": {
+  "rank": 96,
+  "type": "",
+  "word": "tan",
+  "en": "So..."
+ },
+ "96": {
+  "rank": 97,
+  "type": "",
+  "word": "señor",
+  "en": "Sir"
+ },
+ "97": {
+  "rank": 98,
+  "type": "",
+  "word": "tiempo",
+  "en": "time"
+ },
+ "98": {
+  "rank": 99,
+  "type": "",
+  "word": "verdad",
+  "en": "Truth"
+ },
+ "99": {
+  "rank": 100,
+  "type": "",
+  "word": "estaba",
+  "en": "I was."
+ },
+ "100": {
+  "rank": 101,
+  "type": "",
+  "word": "mejor",
+  "en": "Better."
+ },
+ "101": {
+  "rank": 102,
+  "type": "",
+  "word": "están",
+  "en": "They're in."
+ },
+ "102": {
+  "rank": 103,
+  "type": "",
+  "word": "va",
+  "en": "Go."
+ },
+ "103": {
+  "rank": 104,
+  "type": "",
+  "word": "hombre",
+  "en": "man"
+ },
+ "104": {
+  "rank": 105,
+  "type": "",
+  "word": "usted",
+  "en": "oted"
+ },
+ "105": {
+  "rank": 106,
+  "type": "",
+  "word": "mucho",
+  "en": "a lot."
+ },
+ "106": {
+  "rank": 107,
+  "type": "",
+  "word": "hace",
+  "en": "#"
+ },
+ "107": {
+  "rank": 108,
+  "type": "",
+  "word": "entonces",
+  "en": "then."
+ },
+ "108": {
+  "rank": 109,
+  "type": "",
+  "word": "siento",
+  "en": "I'm sorry."
+ },
+ "109": {
+  "rank": 110,
+  "type": "",
+  "word": "tenemos",
+  "en": "We have to have a place."
+ },
+ "110": {
+  "rank": 111,
+  "type": "",
+  "word": "puedes",
+  "en": "You can."
+ },
+ "111": {
+  "rank": 112,
+  "type": "",
+  "word": "ahí",
+  "en": "there."
+ },
+ "112": {
+  "rank": 113,
+  "type": "",
+  "word": "ti",
+  "en": "♪"
+ },
+ "113": {
+  "rank": 114,
+  "type": "",
+  "word": "vida",
+  "en": "life"
+ },
+ "114": {
+  "rank": 115,
+  "type": "",
+  "word": "ver",
+  "en": "See"
+ },
+ "115": {
+  "rank": 116,
+  "type": "",
+  "word": "alguien",
+  "en": "Someone"
+ },
+ "116": {
+  "rank": 117,
+  "type": "",
+  "word": "sr",
+  "en": "sr"
+ },
+ "117": {
+  "rank": 118,
+  "type": "",
+  "word": "hasta",
+  "en": "until"
+ },
+ "118": {
+  "rank": 119,
+  "type": "",
+  "word": "sin",
+  "en": "without"
+ },
+ "119": {
+  "rank": 120,
+  "type": "",
+  "word": "mí",
+  "en": "me."
+ },
+ "120": {
+  "rank": 121,
+  "type": "",
+  "word": "solo",
+  "en": "alone."
+ },
+ "121": {
+  "rank": 122,
+  "type": "",
+  "word": "años",
+  "en": "years"
+ },
+ "122": {
+  "rank": 123,
+  "type": "",
+  "word": "sobre",
+  "en": "on"
+ },
+ "123": {
+  "rank": 124,
+  "type": "",
+  "word": "decir",
+  "en": "I mean"
+ },
+ "124": {
+  "rank": 125,
+  "type": "",
+  "word": "uno",
+  "en": "One"
+ },
+ "125": {
+  "rank": 126,
+  "type": "",
+  "word": "siempre",
+  "en": "always."
+ },
+ "126": {
+  "rank": 127,
+  "type": "",
+  "word": "oh",
+  "en": "Oh."
+ },
+ "127": {
+  "rank": 128,
+  "type": "",
+  "word": "ir",
+  "en": "go"
+ },
+ "128": {
+  "rank": 129,
+  "type": "",
+  "word": "cosas",
+  "en": "Things"
+ },
+ "129": {
+  "rank": 130,
+  "type": "",
+  "word": "también",
+  "en": "also"
+ },
+ "130": {
+  "rank": 131,
+  "type": "",
+  "word": "antes",
+  "en": "before"
+ },
+ "131": {
+  "rank": 132,
+  "type": "",
+  "word": "has",
+  "en": "You did."
+ },
+ "132": {
+  "rank": 133,
+  "type": "",
+  "word": "ni",
+  "en": "and"
+ },
+ "133": {
+  "rank": 134,
+  "type": "",
+  "word": "mis",
+  "en": "My"
+ },
+ "134": {
+  "rank": 135,
+  "type": "",
+  "word": "día",
+  "en": "Day"
+ },
+ "135": {
+  "rank": 136,
+  "type": "",
+  "word": "estar",
+  "en": "Being"
+ },
+ "136": {
+  "rank": 137,
+  "type": "",
+  "word": "estamos",
+  "en": "We are."
+ },
+ "137": {
+  "rank": 138,
+  "type": "",
+  "word": "noche",
+  "en": "night"
+ },
+ "138": {
+  "rank": 139,
+  "type": "",
+  "word": "nadie",
+  "en": "Nobody."
+ },
+ "139": {
+  "rank": 140,
+  "type": "",
+  "word": "otra",
+  "en": "another"
+ },
+ "140": {
+  "rank": 141,
+  "type": "",
+  "word": "quiere",
+  "en": "She wants to."
+ },
+ "141": {
+  "rank": 142,
+  "type": "",
+  "word": "parece",
+  "en": "It seems"
+ },
+ "142": {
+  "rank": 143,
+  "type": "",
+  "word": "nosotros",
+  "en": "us."
+ },
+ "143": {
+  "rank": 144,
+  "type": "",
+  "word": "poco",
+  "en": "Little"
+ },
+ "144": {
+  "rank": 145,
+  "type": "",
+  "word": "padre",
+  "en": "father"
+ },
+ "145": {
+  "rank": 146,
+  "type": "",
+  "word": "trabajo",
+  "en": "work"
+ },
+ "146": {
+  "rank": 147,
+  "type": "",
+  "word": "gente",
+  "en": "people"
+ },
+ "147": {
+  "rank": 148,
+  "type": "",
+  "word": "mira",
+  "en": "Look."
+ },
+ "148": {
+  "rank": 149,
+  "type": "",
+  "word": "vas",
+  "en": "Go."
+ },
+ "149": {
+  "rank": 150,
+  "type": "",
+  "word": "sea",
+  "en": "Whatever."
+ },
+ "150": {
+  "rank": 151,
+  "type": "",
+  "word": "les",
+  "en": "them"
+ },
+ "151": {
+  "rank": 152,
+  "type": "",
+  "word": "donde",
+  "en": "where"
+ },
+ "152": {
+  "rank": 153,
+  "type": "",
+  "word": "mismo",
+  "en": "Right."
+ },
+ "153": {
+  "rank": 154,
+  "type": "",
+  "word": "hecho",
+  "en": "fact"
+ },
+ "154": {
+  "rank": 155,
+  "type": "",
+  "word": "ellos",
+  "en": "They"
+ },
+ "155": {
+  "rank": 156,
+  "type": "",
+  "word": "dijo",
+  "en": "said"
+ },
+ "156": {
+  "rank": 157,
+  "type": "",
+  "word": "pasa",
+  "en": "It happens."
+ },
+ "157": {
+  "rank": 158,
+  "type": "",
+  "word": "dinero",
+  "en": "money"
+ },
+ "158": {
+  "rank": 159,
+  "type": "",
+  "word": "hijo",
+  "en": "son"
+ },
+ "159": {
+  "rank": 160,
+  "type": "",
+  "word": "tal",
+  "en": "Such a"
+ },
+ "160": {
+  "rank": 161,
+  "type": "",
+  "word": "otro",
+  "en": "another"
+ },
+ "161": {
+  "rank": 162,
+  "type": "",
+  "word": "hablar",
+  "en": "Talk."
+ },
+ "162": {
+  "rank": 163,
+  "type": "",
+  "word": "seguro",
+  "en": "Insurance"
+ },
+ "163": {
+  "rank": 164,
+  "type": "",
+  "word": "claro",
+  "en": "Of course."
+ },
+ "164": {
+  "rank": 165,
+  "type": "",
+  "word": "estas",
+  "en": "Here."
+ },
+ "165": {
+  "rank": 166,
+  "type": "",
+  "word": "lugar",
+  "en": "place"
+ },
+ "166": {
+  "rank": 167,
+  "type": "",
+  "word": "mundo",
+  "en": "world"
+ },
+ "167": {
+  "rank": 168,
+  "type": "",
+  "word": "amigo",
+  "en": "friend"
+ },
+ "168": {
+  "rank": 169,
+  "type": "",
+  "word": "espera",
+  "en": "Wait."
+ },
+ "169": {
+  "rank": 170,
+  "type": "",
+  "word": "mierda",
+  "en": "Shit!"
+ },
+ "170": {
+  "rank": 171,
+  "type": "",
+  "word": "han",
+  "en": "have"
+ },
+ "171": {
+  "rank": 172,
+  "type": "",
+  "word": "tus",
+  "en": "♪"
+ },
+ "172": {
+  "rank": 173,
+  "type": "",
+  "word": "sabe",
+  "en": "You know what?"
+ },
+ "173": {
+  "rank": 174,
+  "type": "",
+  "word": "después",
+  "en": "later"
+ },
+ "174": {
+  "rank": 175,
+  "type": "",
+  "word": "momento",
+  "en": "moment"
+ },
+ "175": {
+  "rank": 176,
+  "type": "",
+  "word": "desde",
+  "en": "from"
+ },
+ "176": {
+  "rank": 177,
+  "type": "",
+  "word": "fuera",
+  "en": "outside"
+ },
+ "177": {
+  "rank": 178,
+  "type": "",
+  "word": "cosa",
+  "en": "Something"
+ },
+ "178": {
+  "rank": 179,
+  "type": "",
+  "word": "tipo",
+  "en": "type"
+ },
+ "179": {
+  "rank": 180,
+  "type": "",
+  "word": "mañana",
+  "en": "tomorrow"
+ },
+ "180": {
+  "rank": 181,
+  "type": "",
+  "word": "podemos",
+  "en": "We can."
+ },
+ "181": {
+  "rank": 182,
+  "type": "",
+  "word": "dije",
+  "en": "I said"
+ },
+ "182": {
+  "rank": 183,
+  "type": "",
+  "word": "gran",
+  "en": "Great."
+ },
+ "183": {
+  "rank": 184,
+  "type": "",
+  "word": "necesito",
+  "en": "I need to."
+ },
+ "184": {
+  "rank": 185,
+  "type": "",
+  "word": "estado",
+  "en": "state"
+ },
+ "185": {
+  "rank": 186,
+  "type": "",
+  "word": "podría",
+  "en": "I could."
+ },
+ "186": {
+  "rank": 187,
+  "type": "",
+  "word": "acuerdo",
+  "en": "Okay."
+ },
+ "187": {
+  "rank": 188,
+  "type": "",
+  "word": "papá",
+  "en": "Dad"
+ },
+ "188": {
+  "rank": 189,
+  "type": "",
+  "word": "tener",
+  "en": "having to"
+ },
+ "189": {
+  "rank": 190,
+  "type": "",
+  "word": "dice",
+  "en": "It says"
+ },
+ "190": {
+  "rank": 191,
+  "type": "",
+  "word": "mío",
+  "en": "Mine."
+ },
+ "191": {
+  "rank": 192,
+  "type": "",
+  "word": "crees",
+  "en": "You think"
+ },
+ "192": {
+  "rank": 193,
+  "type": "",
+  "word": "buena",
+  "en": "Good."
+ },
+ "193": {
+  "rank": 194,
+  "type": "",
+  "word": "gusta",
+  "en": "drop"
+ },
+ "194": {
+  "rank": 195,
+  "type": "",
+  "word": "nuestro",
+  "en": "Ours"
+ },
+ "195": {
+  "rank": 196,
+  "type": "",
+  "word": "nuevo",
+  "en": "new"
+ },
+ "196": {
+  "rank": 197,
+  "type": "",
+  "word": "será",
+  "en": "It will be"
+ },
+ "197": {
+  "rank": 198,
+  "type": "",
+  "word": "haciendo",
+  "en": "doing"
+ },
+ "198": {
+  "rank": 199,
+  "type": "",
+  "word": "días",
+  "en": "days"
+ },
+ "199": {
+  "rank": 200,
+  "type": "",
+  "word": "nombre",
+  "en": "Name"
+ },
+ "200": {
+  "rank": 201,
+  "type": "",
+  "word": "buen",
+  "en": "Good."
+ },
+ "201": {
+  "rank": 202,
+  "type": "",
+  "word": "había",
+  "en": "there"
+ },
+ "202": {
+  "rank": 203,
+  "type": "",
+  "word": "ven",
+  "en": "Come on."
+ },
+ "203": {
+  "rank": 204,
+  "type": "",
+  "word": "tres",
+  "en": "Three."
+ },
+ "204": {
+  "rank": 205,
+  "type": "",
+  "word": "menos",
+  "en": "less"
+ },
+ "205": {
+  "rank": 206,
+  "type": "",
+  "word": "debe",
+  "en": "must"
+ },
+ "206": {
+  "rank": 207,
+  "type": "",
+  "word": "tenía",
+  "en": "I had to."
+ },
+ "207": {
+  "rank": 208,
+  "type": "",
+  "word": "mal",
+  "en": "bad."
+ },
+ "208": {
+  "rank": 209,
+  "type": "",
+  "word": "conmigo",
+  "en": "with me."
+ },
+ "209": {
+  "rank": 210,
+  "type": "",
+  "word": "madre",
+  "en": "mother"
+ },
+ "210": {
+  "rank": 211,
+  "type": "",
+  "word": "hoy",
+  "en": "today"
+ },
+ "211": {
+  "rank": 212,
+  "type": "",
+  "word": "quien",
+  "en": "who"
+ },
+ "212": {
+  "rank": 213,
+  "type": "",
+  "word": "sido",
+  "en": "It was"
+ },
+ "213": {
+  "rank": 214,
+  "type": "",
+  "word": "mamá",
+  "en": "Mom."
+ },
+ "214": {
+  "rank": 215,
+  "type": "",
+  "word": "tienen",
+  "en": "They have"
+ },
+ "215": {
+  "rank": 216,
+  "type": "",
+  "word": "luego",
+  "en": "Later."
+ },
+ "216": {
+  "rank": 217,
+  "type": "",
+  "word": "todas",
+  "en": "all"
+ },
+ "217": {
+  "rank": 218,
+  "type": "",
+  "word": "allí",
+  "en": "there."
+ },
+ "218": {
+  "rank": 219,
+  "type": "",
+  "word": "toda",
+  "en": "All of it."
+ },
+ "219": {
+  "rank": 220,
+  "type": "",
+  "word": "hora",
+  "en": "Time"
+ },
+ "220": {
+  "rank": 221,
+  "type": "",
+  "word": "mujer",
+  "en": "women"
+ },
+ "221": {
+  "rank": 222,
+  "type": "",
+  "word": "visto",
+  "en": "♪"
+ },
+ "222": {
+  "rank": 223,
+  "type": "",
+  "word": "haces",
+  "en": "You do."
+ },
+ "223": {
+  "rank": 224,
+  "type": "",
+  "word": "importa",
+  "en": "It matters."
+ },
+ "224": {
+  "rank": 225,
+  "type": "",
+  "word": "contigo",
+  "en": "with you"
+ },
+ "225": {
+  "rank": 226,
+  "type": "",
+  "word": "ve",
+  "en": "Go."
+ },
+ "226": {
+  "rank": 227,
+  "type": "",
+  "word": "tarde",
+  "en": "late"
+ },
+ "227": {
+  "rank": 228,
+  "type": "",
+  "word": "oye",
+  "en": "Hey."
+ },
+ "228": {
+  "rank": 229,
+  "type": "",
+  "word": "parte",
+  "en": "part"
+ },
+ "229": {
+  "rank": 230,
+  "type": "",
+  "word": "haber",
+  "en": "There must be"
+ },
+ "230": {
+  "rank": 231,
+  "type": "",
+  "word": "hombres",
+  "en": "men"
+ },
+ "231": {
+  "rank": 232,
+  "type": "",
+  "word": "problema",
+  "en": "problem"
+ },
+ "232": {
+  "rank": 233,
+  "type": "",
+  "word": "mas",
+  "en": "More"
+ },
+ "233": {
+  "rank": 234,
+  "type": "",
+  "word": "saber",
+  "en": "to know"
+ },
+ "234": {
+  "rank": 235,
+  "type": "",
+  "word": "quería",
+  "en": "I wanted to."
+ },
+ "235": {
+  "rank": 236,
+  "type": "",
+  "word": "aún",
+  "en": "still"
+ },
+ "236": {
+  "rank": 237,
+  "type": "",
+  "word": "veces",
+  "en": "Sometimes"
+ },
+ "237": {
+  "rank": 238,
+  "type": "",
+  "word": "nuestra",
+  "en": "Ours"
+ },
+ "238": {
+  "rank": 239,
+  "type": "",
+  "word": "hacerlo",
+  "en": "do it."
+ },
+ "239": {
+  "rank": 240,
+  "type": "",
+  "word": "cada",
+  "en": "each"
+ },
+ "240": {
+  "rank": 241,
+  "type": "",
+  "word": "hizo",
+  "en": "He did."
+ },
+ "241": {
+  "rank": 242,
+  "type": "",
+  "word": "veo",
+  "en": "I see."
+ },
+ "242": {
+  "rank": 243,
+  "type": "",
+  "word": "tanto",
+  "en": "so much."
+ },
+ "243": {
+  "rank": 244,
+  "type": "",
+  "word": "razón",
+  "en": "reason"
+ },
+ "244": {
+  "rank": 245,
+  "type": "",
+  "word": "ustedes",
+  "en": "You guys."
+ },
+ "245": {
+  "rank": 246,
+  "type": "",
+  "word": "idea",
+  "en": "idea"
+ },
+ "246": {
+  "rank": 247,
+  "type": "",
+  "word": "esos",
+  "en": "those"
+ },
+ "247": {
+  "rank": 248,
+  "type": "",
+  "word": "van",
+  "en": "van."
+ },
+ "248": {
+  "rank": 249,
+  "type": "",
+  "word": "quizá",
+  "en": "Maybe."
+ },
+ "249": {
+  "rank": 250,
+  "type": "",
+  "word": "debo",
+  "en": "I must."
+ },
+ "250": {
+  "rank": 251,
+  "type": "",
+  "word": "alguna",
+  "en": "any"
+ },
+ "251": {
+  "rank": 252,
+  "type": "",
+  "word": "cierto",
+  "en": "Right."
+ },
+ "252": {
+  "rank": 253,
+  "type": "",
+  "word": "ud",
+  "en": "ud"
+ },
+ "253": {
+  "rank": 254,
+  "type": "",
+  "word": "muerto",
+  "en": "Dead."
+ },
+ "254": {
+  "rank": 255,
+  "type": "",
+  "word": "unos",
+  "en": "a"
+ },
+ "255": {
+  "rank": 256,
+  "type": "",
+  "word": "estos",
+  "en": "these"
+ },
+ "256": {
+  "rank": 257,
+  "type": "",
+  "word": "salir",
+  "en": "Get out."
+ },
+ "257": {
+  "rank": 258,
+  "type": "",
+  "word": "policía",
+  "en": "Police"
+ },
+ "258": {
+  "rank": 259,
+  "type": "",
+  "word": "realmente",
+  "en": "Really."
+ },
+ "259": {
+  "rank": 260,
+  "type": "",
+  "word": "demasiado",
+  "en": "too much."
+ },
+ "260": {
+  "rank": 261,
+  "type": "",
+  "word": "familia",
+  "en": "family"
+ },
+ "261": {
+  "rank": 262,
+  "type": "",
+  "word": "pueden",
+  "en": "can"
+ },
+ "262": {
+  "rank": 263,
+  "type": "",
+  "word": "cabeza",
+  "en": "head"
+ },
+ "263": {
+  "rank": 264,
+  "type": "",
+  "word": "hemos",
+  "en": "We have."
+ },
+ "264": {
+  "rank": 265,
+  "type": "",
+  "word": "amigos",
+  "en": "friends"
+ },
+ "265": {
+  "rank": 266,
+  "type": "",
+  "word": "chica",
+  "en": "Girl"
+ },
+ "266": {
+  "rank": 267,
+  "type": "",
+  "word": "cariño",
+  "en": "Honey."
+ },
+ "267": {
+  "rank": 268,
+  "type": "",
+  "word": "lado",
+  "en": "side"
+ },
+ "268": {
+  "rank": 269,
+  "type": "",
+  "word": "allá",
+  "en": "Over there."
+ },
+ "269": {
+  "rank": 270,
+  "type": "",
+  "word": "entre",
+  "en": "between"
+ },
+ "270": {
+  "rank": 271,
+  "type": "",
+  "word": "minutos",
+  "en": "minutes"
+ },
+ "271": {
+  "rank": 272,
+  "type": "",
+  "word": "digo",
+  "en": "I say"
+ },
+ "272": {
+  "rank": 273,
+  "type": "",
+  "word": "algún",
+  "en": "Some"
+ },
+ "273": {
+  "rank": 274,
+  "type": "",
+  "word": "serio",
+  "en": "Seriously."
+ },
+ "274": {
+  "rank": 275,
+  "type": "",
+  "word": "cuidado",
+  "en": "Careful"
+ },
+ "275": {
+  "rank": 276,
+  "type": "",
+  "word": "pasó",
+  "en": "It happened."
+ },
+ "276": {
+  "rank": 277,
+  "type": "",
+  "word": "buenas",
+  "en": "Good."
+ },
+ "277": {
+  "rank": 278,
+  "type": "",
+  "word": "somos",
+  "en": "We are."
+ },
+ "278": {
+  "rank": 279,
+  "type": "",
+  "word": "amor",
+  "en": "love"
+ },
+ "279": {
+  "rank": 280,
+  "type": "",
+  "word": "puerta",
+  "en": "door"
+ },
+ "280": {
+  "rank": 281,
+  "type": "",
+  "word": "ves",
+  "en": "See you."
+ },
+ "281": {
+  "rank": 282,
+  "type": "",
+  "word": "vaya",
+  "en": "Go."
+ },
+ "282": {
+  "rank": 283,
+  "type": "",
+  "word": "ah",
+  "en": "ah"
+ },
+ "283": {
+  "rank": 284,
+  "type": "",
+  "word": "suerte",
+  "en": "luck."
+ },
+ "284": {
+  "rank": 285,
+  "type": "",
+  "word": "eh",
+  "en": "Uh..."
+ },
+ "285": {
+  "rank": 286,
+  "type": "",
+  "word": "rápido",
+  "en": "Quick"
+ },
+ "286": {
+  "rank": 287,
+  "type": "",
+  "word": "cuenta",
+  "en": "account"
+ },
+ "287": {
+  "rank": 288,
+  "type": "",
+  "word": "quizás",
+  "en": "Maybe."
+ },
+ "288": {
+  "rank": 289,
+  "type": "",
+  "word": "io",
+  "en": "io"
+ },
+ "289": {
+  "rank": 290,
+  "type": "",
+  "word": "esas",
+  "en": "those"
+ },
+ "290": {
+  "rank": 291,
+  "type": "",
+  "word": "pues",
+  "en": "therefore"
+ },
+ "291": {
+  "rank": 292,
+  "type": "",
+  "word": "pasado",
+  "en": "past"
+ },
+ "292": {
+  "rank": 293,
+  "type": "",
+  "word": "pensé",
+  "en": "I thought"
+ },
+ "293": {
+  "rank": 294,
+  "type": "",
+  "word": "todavía",
+  "en": "still"
+ },
+ "294": {
+  "rank": 295,
+  "type": "",
+  "word": "hermano",
+  "en": "Brother"
+ },
+ "295": {
+  "rank": 296,
+  "type": "",
+  "word": "debes",
+  "en": "You must"
+ },
+ "296": {
+  "rank": 297,
+  "type": "",
+  "word": "casi",
+  "en": "Almost."
+ },
+ "297": {
+  "rank": 298,
+  "type": "",
+  "word": "forma",
+  "en": "shape"
+ },
+ "298": {
+  "rank": 299,
+  "type": "",
+  "word": "aqui",
+  "en": "Here."
+ },
+ "299": {
+  "rank": 300,
+  "type": "",
+  "word": "chico",
+  "en": "Boy"
+ },
+ "300": {
+  "rank": 301,
+  "type": "",
+  "word": "ok",
+  "en": "Okay."
+ },
+ "301": {
+  "rank": 302,
+  "type": "",
+  "word": "dicho",
+  "en": "said"
+ },
+ "302": {
+  "rank": 303,
+  "type": "",
+  "word": "nueva",
+  "en": "new"
+ },
+ "303": {
+  "rank": 304,
+  "type": "",
+  "word": "sabía",
+  "en": "I knew."
+ },
+ "304": {
+  "rank": 305,
+  "type": "",
+  "word": "muchas",
+  "en": "many"
+ },
+ "305": {
+  "rank": 306,
+  "type": "",
+  "word": "dentro",
+  "en": "inside"
+ },
+ "306": {
+  "rank": 307,
+  "type": "",
+  "word": "hice",
+  "en": "I did."
+ },
+ "307": {
+  "rank": 308,
+  "type": "",
+  "word": "contra",
+  "en": "against"
+ },
+ "308": {
+  "rank": 309,
+  "type": "",
+  "word": "auto",
+  "en": "car"
+ },
+ "309": {
+  "rank": 310,
+  "type": "",
+  "word": "camino",
+  "en": "road"
+ },
+ "310": {
+  "rank": 311,
+  "type": "",
+  "word": "ayuda",
+  "en": "Help"
+ },
+ "311": {
+  "rank": 312,
+  "type": "",
+  "word": "primera",
+  "en": "first"
+ },
+ "312": {
+  "rank": 313,
+  "type": "",
+  "word": "hacia",
+  "en": "towards"
+ },
+ "313": {
+  "rank": 314,
+  "type": "",
+  "word": "vi",
+  "en": "vi"
+ },
+ "314": {
+  "rank": 315,
+  "type": "",
+  "word": "miedo",
+  "en": "fear"
+ },
+ "315": {
+  "rank": 316,
+  "type": "",
+  "word": "adiós",
+  "en": "Bye."
+ },
+ "316": {
+  "rank": 317,
+  "type": "",
+  "word": "primero",
+  "en": "first"
+ },
+ "317": {
+  "rank": 318,
+  "type": "",
+  "word": "debería",
+  "en": "should"
+ },
+ "318": {
+  "rank": 319,
+  "type": "",
+  "word": "poder",
+  "en": "power"
+ },
+ "319": {
+  "rank": 320,
+  "type": "",
+  "word": "niños",
+  "en": "children"
+ },
+ "320": {
+  "rank": 321,
+  "type": "",
+  "word": "sería",
+  "en": "It would be"
+ },
+ "321": {
+  "rank": 322,
+  "type": "",
+  "word": "historia",
+  "en": "history"
+ },
+ "322": {
+  "rank": 323,
+  "type": "",
+  "word": "hey",
+  "en": "Hey."
+ },
+ "323": {
+  "rank": 324,
+  "type": "",
+  "word": "mientras",
+  "en": "while"
+ },
+ "324": {
+  "rank": 325,
+  "type": "",
+  "word": "ciudad",
+  "en": "city"
+ },
+ "325": {
+  "rank": 326,
+  "type": "",
+  "word": "dijiste",
+  "en": "You said"
+ },
+ "326": {
+  "rank": 327,
+  "type": "",
+  "word": "espero",
+  "en": "I hope"
+ },
+ "327": {
+  "rank": 328,
+  "type": "",
+  "word": "cuánto",
+  "en": "How much?"
+ },
+ "328": {
+  "rank": 329,
+  "type": "",
+  "word": "esposa",
+  "en": "wife"
+ },
+ "329": {
+  "rank": 330,
+  "type": "",
+  "word": "pronto",
+  "en": "soon"
+ },
+ "330": {
+  "rank": 331,
+  "type": "",
+  "word": "chicos",
+  "en": "Guys."
+ },
+ "331": {
+  "rank": 332,
+  "type": "",
+  "word": "cualquier",
+  "en": "any"
+ },
+ "332": {
+  "rank": 333,
+  "type": "",
+  "word": "viejo",
+  "en": "Old old man"
+ },
+ "333": {
+  "rank": 334,
+  "type": "",
+  "word": "debemos",
+  "en": "We must"
+ },
+ "334": {
+  "rank": 335,
+  "type": "",
+  "word": "deja",
+  "en": "Let go"
+ },
+ "335": {
+  "rank": 336,
+  "type": "",
+  "word": "año",
+  "en": "year"
+ },
+ "336": {
+  "rank": 337,
+  "type": "",
+  "word": "muerte",
+  "en": "death"
+ },
+ "337": {
+  "rank": 338,
+  "type": "",
+  "word": "hablando",
+  "en": "speaking"
+ },
+ "338": {
+  "rank": 339,
+  "type": "",
+  "word": "manos",
+  "en": "hands"
+ },
+ "339": {
+  "rank": 340,
+  "type": "",
+  "word": "da",
+  "en": "da"
+ },
+ "340": {
+  "rank": 341,
+  "type": "",
+  "word": "loco",
+  "en": "Crazy."
+ },
+ "341": {
+  "rank": 342,
+  "type": "",
+  "word": "problemas",
+  "en": "problems"
+ },
+ "342": {
+  "rank": 343,
+  "type": "",
+  "word": "mano",
+  "en": "hand"
+ },
+ "343": {
+  "rank": 344,
+  "type": "",
+  "word": "guerra",
+  "en": "War"
+ },
+ "344": {
+  "rank": 345,
+  "type": "",
+  "word": "semana",
+  "en": "Week"
+ },
+ "345": {
+  "rank": 346,
+  "type": "",
+  "word": "pasar",
+  "en": "Pass"
+ },
+ "346": {
+  "rank": 347,
+  "type": "",
+  "word": "vale",
+  "en": "Okay."
+ },
+ "347": {
+  "rank": 348,
+  "type": "",
+  "word": "cuál",
+  "en": "which"
+ },
+ "348": {
+  "rank": 349,
+  "type": "",
+  "word": "viene",
+  "en": "Come on."
+ },
+ "349": {
+  "rank": 350,
+  "type": "",
+  "word": "volver",
+  "en": "return"
+ },
+ "350": {
+  "rank": 351,
+  "type": "",
+  "word": "toma",
+  "en": "Here."
+ },
+ "351": {
+  "rank": 352,
+  "type": "",
+  "word": "caso",
+  "en": "case"
+ },
+ "352": {
+  "rank": 353,
+  "type": "",
+  "word": "agua",
+  "en": "water"
+ },
+ "353": {
+  "rank": 354,
+  "type": "",
+  "word": "haré",
+  "en": "I will."
+ },
+ "354": {
+  "rank": 355,
+  "type": "",
+  "word": "vete",
+  "en": "Go."
+ },
+ "355": {
+  "rank": 356,
+  "type": "",
+  "word": "entiendo",
+  "en": "I understand."
+ },
+ "356": {
+  "rank": 357,
+  "type": "",
+  "word": "horas",
+  "en": "hours"
+ },
+ "357": {
+  "rank": 358,
+  "type": "",
+  "word": "personas",
+  "en": "persons"
+ },
+ "358": {
+  "rank": 359,
+  "type": "",
+  "word": "capitán",
+  "en": "Captain"
+ },
+ "359": {
+  "rank": 360,
+  "type": "",
+  "word": "adelante",
+  "en": "Go ahead."
+ },
+ "360": {
+  "rank": 361,
+  "type": "",
+  "word": "niño",
+  "en": "child"
+ },
+ "361": {
+  "rank": 362,
+  "type": "",
+  "word": "listo",
+  "en": "Ready."
+ },
+ "362": {
+  "rank": 363,
+  "type": "",
+  "word": "noches",
+  "en": "nights"
+ },
+ "363": {
+  "rank": 364,
+  "type": "",
+  "word": "buenos",
+  "en": "Good."
+ },
+ "364": {
+  "rank": 365,
+  "type": "",
+  "word": "iba",
+  "en": "I was."
+ },
+ "365": {
+  "rank": 366,
+  "type": "",
+  "word": "juntos",
+  "en": "together"
+ },
+ "366": {
+  "rank": 367,
+  "type": "",
+  "word": "dame",
+  "en": "Gimme."
+ },
+ "367": {
+  "rank": 368,
+  "type": "",
+  "word": "único",
+  "en": "unique"
+ },
+ "368": {
+  "rank": 369,
+  "type": "",
+  "word": "déjame",
+  "en": "Leave me alone."
+ },
+ "369": {
+  "rank": 370,
+  "type": "",
+  "word": "cerca",
+  "en": "near"
+ },
+ "370": {
+  "rank": 371,
+  "type": "",
+  "word": "otros",
+  "en": "others"
+ },
+ "371": {
+  "rank": 372,
+  "type": "",
+  "word": "sigue",
+  "en": "Go on."
+ },
+ "372": {
+  "rank": 373,
+  "type": "",
+  "word": "grande",
+  "en": "big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big"
+ },
+ "373": {
+  "rank": 374,
+  "type": "",
+  "word": "arriba",
+  "en": "Up"
+ },
+ "374": {
+  "rank": 375,
+  "type": "",
+  "word": "jefe",
+  "en": "Chief"
+ },
+ "375": {
+  "rank": 376,
+  "type": "",
+  "word": "habla",
+  "en": "Talk."
+ },
+ "376": {
+  "rank": 377,
+  "type": "",
+  "word": "supongo",
+  "en": "I guess."
+ },
+ "377": {
+  "rank": 378,
+  "type": "",
+  "word": "manera",
+  "en": "way"
+ },
+ "378": {
+  "rank": 379,
+  "type": "",
+  "word": "quieren",
+  "en": "They want"
+ },
+ "379": {
+  "rank": 380,
+  "type": "",
+  "word": "feliz",
+  "en": "Happy"
+ },
+ "380": {
+  "rank": 381,
+  "type": "",
+  "word": "significa",
+  "en": "means"
+ },
+ "381": {
+  "rank": 382,
+  "type": "",
+  "word": "sangre",
+  "en": "Blood"
+ },
+ "382": {
+  "rank": 383,
+  "type": "",
+  "word": "fin",
+  "en": "end"
+ },
+ "383": {
+  "rank": 384,
+  "type": "",
+  "word": "bajo",
+  "en": "Low"
+ },
+ "384": {
+  "rank": 385,
+  "type": "",
+  "word": "llama",
+  "en": "flame"
+ },
+ "385": {
+  "rank": 386,
+  "type": "",
+  "word": "venir",
+  "en": "Come on."
+ },
+ "386": {
+  "rank": 387,
+  "type": "",
+  "word": "morir",
+  "en": "die."
+ },
+ "387": {
+  "rank": 388,
+  "type": "",
+  "word": "importante",
+  "en": "important"
+ },
+ "388": {
+  "rank": 389,
+  "type": "",
+  "word": "hiciste",
+  "en": "You did."
+ },
+ "389": {
+  "rank": 390,
+  "type": "",
+  "word": "ojos",
+  "en": "eyes"
+ },
+ "390": {
+  "rank": 391,
+  "type": "",
+  "word": "escucha",
+  "en": "Listen."
+ },
+ "391": {
+  "rank": 392,
+  "type": "",
+  "word": "entrar",
+  "en": "Come in."
+ },
+ "392": {
+  "rank": 393,
+  "type": "",
+  "word": "ningún",
+  "en": "No."
+ },
+ "393": {
+  "rank": 394,
+  "type": "",
+  "word": "corazón",
+  "en": "heart"
+ },
+ "394": {
+  "rank": 395,
+  "type": "",
+  "word": "diablos",
+  "en": "Damn."
+ },
+ "395": {
+  "rank": 396,
+  "type": "",
+  "word": "necesitamos",
+  "en": "We need to."
+ },
+ "396": {
+  "rank": 397,
+  "type": "",
+  "word": "atrás",
+  "en": "Back"
+ },
+ "397": {
+  "rank": 398,
+  "type": "",
+  "word": "durante",
+  "en": "during"
+ },
+ "398": {
+  "rank": 399,
+  "type": "",
+  "word": "dices",
+  "en": "You say"
+ },
+ "399": {
+  "rank": 400,
+  "type": "",
+  "word": "nuestros",
+  "en": "Ours"
+ },
+ "400": {
+  "rank": 401,
+  "type": "",
+  "word": "persona",
+  "en": "person"
+ },
+ "401": {
+  "rank": 402,
+  "type": "",
+  "word": "abajo",
+  "en": "Down"
+ },
+ "402": {
+  "rank": 403,
+  "type": "",
+  "word": "dr",
+  "en": "dr"
+ },
+ "403": {
+  "rank": 404,
+  "type": "",
+  "word": "hija",
+  "en": "daughter"
+ },
+ "404": {
+  "rank": 405,
+  "type": "",
+  "word": "dejar",
+  "en": "Let me"
+ },
+ "405": {
+  "rank": 406,
+  "type": "",
+  "word": "necesita",
+  "en": "needs to need"
+ },
+ "406": {
+  "rank": 407,
+  "type": "",
+  "word": "llegar",
+  "en": "get there."
+ },
+ "407": {
+  "rank": 408,
+  "type": "",
+  "word": "hago",
+  "en": "I do."
+ },
+ "408": {
+  "rank": 409,
+  "type": "",
+  "word": "señora",
+  "en": "Madam"
+ },
+ "409": {
+  "rank": 410,
+  "type": "",
+  "word": "haya",
+  "en": "there."
+ },
+ "410": {
+  "rank": 411,
+  "type": "",
+  "word": "suficiente",
+  "en": "Enough."
+ },
+ "411": {
+  "rank": 412,
+  "type": "",
+  "word": "doctor",
+  "en": "Doctor"
+ },
+ "412": {
+  "rank": 413,
+  "type": "",
+  "word": "gustaría",
+  "en": "drip"
+ },
+ "413": {
+  "rank": 414,
+  "type": "",
+  "word": "tierra",
+  "en": "earth"
+ },
+ "414": {
+  "rank": 415,
+  "type": "",
+  "word": "cara",
+  "en": "face"
+ },
+ "415": {
+  "rank": 416,
+  "type": "",
+  "word": "siquiera",
+  "en": "even"
+ },
+ "416": {
+  "rank": 417,
+  "type": "",
+  "word": "genial",
+  "en": "Great."
+ },
+ "417": {
+  "rank": 418,
+  "type": "",
+  "word": "cree",
+  "en": "He thinks"
+ },
+ "418": {
+  "rank": 419,
+  "type": "",
+  "word": "supuesto",
+  "en": "Of course."
+ },
+ "419": {
+  "rank": 420,
+  "type": "",
+  "word": "tomar",
+  "en": "Take a drink."
+ },
+ "420": {
+  "rank": 421,
+  "type": "",
+  "word": "equipo",
+  "en": "equipment"
+ },
+ "421": {
+  "rank": 422,
+  "type": "",
+  "word": "justo",
+  "en": "Fuck."
+ },
+ "422": {
+  "rank": 423,
+  "type": "",
+  "word": "juego",
+  "en": "game"
+ },
+ "423": {
+  "rank": 424,
+  "type": "",
+  "word": "ninguna",
+  "en": "No."
+ },
+ "424": {
+  "rank": 425,
+  "type": "",
+  "word": "matar",
+  "en": "kill."
+ },
+ "425": {
+  "rank": 426,
+  "type": "",
+  "word": "cinco",
+  "en": "Five"
+ },
+ "426": {
+  "rank": 427,
+  "type": "",
+  "word": "dicen",
+  "en": "They say"
+ },
+ "427": {
+  "rank": 428,
+  "type": "",
+  "word": "amo",
+  "en": "Master"
+ },
+ "428": {
+  "rank": 429,
+  "type": "",
+  "word": "cuándo",
+  "en": "when"
+ },
+ "429": {
+  "rank": 430,
+  "type": "",
+  "word": "pequeño",
+  "en": "Little"
+ },
+ "430": {
+  "rank": 431,
+  "type": "",
+  "word": "algunos",
+  "en": "Some"
+ },
+ "431": {
+  "rank": 432,
+  "type": "",
+  "word": "conozco",
+  "en": "I know."
+ },
+ "432": {
+  "rank": 433,
+  "type": "",
+  "word": "clase",
+  "en": "class"
+ },
+ "433": {
+  "rank": 434,
+  "type": "",
+  "word": "maldito",
+  "en": "Fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking fucking"
+ },
+ "434": {
+  "rank": 435,
+  "type": "",
+  "word": "unas",
+  "en": "A few"
+ },
+ "435": {
+  "rank": 436,
+  "type": "",
+  "word": "muchos",
+  "en": "many"
+ },
+ "436": {
+  "rank": 437,
+  "type": "",
+  "word": "hubiera",
+  "en": "I would have."
+ },
+ "437": {
+  "rank": 438,
+  "type": "",
+  "word": "segundo",
+  "en": "Second"
+ },
+ "438": {
+  "rank": 439,
+  "type": "",
+  "word": "aunque",
+  "en": "Although"
+ },
+ "439": {
+  "rank": 440,
+  "type": "",
+  "word": "pueda",
+  "en": "I can."
+ },
+ "440": {
+  "rank": 441,
+  "type": "",
+  "word": "dime",
+  "en": "Tell me."
+ },
+ "441": {
+  "rank": 442,
+  "type": "",
+  "word": "igual",
+  "en": "equal"
+ },
+ "442": {
+  "rank": 443,
+  "type": "",
+  "word": "comida",
+  "en": "food"
+ },
+ "443": {
+  "rank": 444,
+  "type": "",
+  "word": "ay",
+  "en": "ay"
+ },
+ "444": {
+  "rank": 445,
+  "type": "",
+  "word": "cuerpo",
+  "en": "body"
+ },
+ "445": {
+  "rank": 446,
+  "type": "",
+  "word": "encontrar",
+  "en": "Find"
+ },
+ "446": {
+  "rank": 447,
+  "type": "",
+  "word": "fuerte",
+  "en": "strong"
+ },
+ "447": {
+  "rank": 448,
+  "type": "",
+  "word": "vuelta",
+  "en": "Round"
+ },
+ "448": {
+  "rank": 449,
+  "type": "",
+  "word": "venga",
+  "en": "Come on."
+ },
+ "449": {
+  "rank": 450,
+  "type": "",
+  "word": "creer",
+  "en": "To believe"
+ },
+ "450": {
+  "rank": 451,
+  "type": "",
+  "word": "realidad",
+  "en": "reality"
+ },
+ "451": {
+  "rank": 452,
+  "type": "",
+  "word": "saben",
+  "en": "know."
+ },
+ "452": {
+  "rank": 453,
+  "type": "",
+  "word": "puta",
+  "en": "Fuck!"
+ },
+ "453": {
+  "rank": 454,
+  "type": "",
+  "word": "deberías",
+  "en": "You should."
+ },
+ "454": {
+  "rank": 455,
+  "type": "",
+  "word": "pregunta",
+  "en": "Question"
+ },
+ "455": {
+  "rank": 456,
+  "type": "",
+  "word": "fui",
+  "en": "I was."
+ },
+ "456": {
+  "rank": 457,
+  "type": "",
+  "word": "cuatro",
+  "en": "Four"
+ },
+ "457": {
+  "rank": 458,
+  "type": "",
+  "word": "sra",
+  "en": "sra"
+ },
+ "458": {
+  "rank": 459,
+  "type": "",
+  "word": "primer",
+  "en": "First"
+ },
+ "459": {
+  "rank": 460,
+  "type": "",
+  "word": "trabajar",
+  "en": "work"
+ },
+ "460": {
+  "rank": 461,
+  "type": "",
+  "word": "e",
+  "en": "e"
+ },
+ "461": {
+  "rank": 462,
+  "type": "",
+  "word": "hagas",
+  "en": "Do it."
+ },
+ "462": {
+  "rank": 463,
+  "type": "",
+  "word": "alto",
+  "en": "High"
+ },
+ "463": {
+  "rank": 464,
+  "type": "",
+  "word": "maldita",
+  "en": "Damn!"
+ },
+ "464": {
+  "rank": 465,
+  "type": "",
+  "word": "comer",
+  "en": "eat"
+ },
+ "465": {
+  "rank": 466,
+  "type": "",
+  "word": "número",
+  "en": "Number"
+ },
+ "466": {
+  "rank": 467,
+  "type": "",
+  "word": "dar",
+  "en": "give"
+ },
+ "467": {
+  "rank": 468,
+  "type": "",
+  "word": "necesitas",
+  "en": "You need to."
+ },
+ "468": {
+  "rank": 469,
+  "type": "",
+  "word": "john",
+  "en": "john"
+ },
+ "469": {
+  "rank": 470,
+  "type": "",
+  "word": "oportunidad",
+  "en": "opportunity"
+ },
+ "470": {
+  "rank": 471,
+  "type": "",
+  "word": "punto",
+  "en": "point"
+ },
+ "471": {
+  "rank": 472,
+  "type": "",
+  "word": "misma",
+  "en": "Same."
+ },
+ "472": {
+  "rank": 473,
+  "type": "",
+  "word": "última",
+  "en": "Last last"
+ },
+ "473": {
+  "rank": 474,
+  "type": "",
+  "word": "afuera",
+  "en": "outside"
+ },
+ "474": {
+  "rank": 475,
+  "type": "",
+  "word": "mujeres",
+  "en": "women"
+ },
+ "475": {
+  "rank": 476,
+  "type": "",
+  "word": "pensar",
+  "en": "think"
+ },
+ "476": {
+  "rank": 477,
+  "type": "",
+  "word": "fueron",
+  "en": "They were"
+ },
+ "477": {
+  "rank": 478,
+  "type": "",
+  "word": "difícil",
+  "en": "difficult."
+ },
+ "478": {
+  "rank": 479,
+  "type": "",
+  "word": "vivir",
+  "en": "living"
+ },
+ "479": {
+  "rank": 480,
+  "type": "",
+  "word": "paso",
+  "en": "Step"
+ },
+ "480": {
+  "rank": 481,
+  "type": "",
+  "word": "malo",
+  "en": "Bad."
+ },
+ "481": {
+  "rank": 482,
+  "type": "",
+  "word": "estabas",
+  "en": "You were."
+ },
+ "482": {
+  "rank": 483,
+  "type": "",
+  "word": "vivo",
+  "en": "Live."
+ },
+ "483": {
+  "rank": 484,
+  "type": "",
+  "word": "haga",
+  "en": "Do it."
+ },
+ "484": {
+  "rank": 485,
+  "type": "",
+  "word": "queda",
+  "en": "Stay."
+ },
+ "485": {
+  "rank": 486,
+  "type": "",
+  "word": "hijos",
+  "en": "children"
+ },
+ "486": {
+  "rank": 487,
+  "type": "",
+  "word": "mayor",
+  "en": "greater"
+ },
+ "487": {
+  "rank": 488,
+  "type": "",
+  "word": "fiesta",
+  "en": "party"
+ },
+ "488": {
+  "rank": 489,
+  "type": "",
+  "word": "hacen",
+  "en": "They do."
+ },
+ "489": {
+  "rank": 490,
+  "type": "",
+  "word": "medio",
+  "en": "medium"
+ },
+ "490": {
+  "rank": 491,
+  "type": "",
+  "word": "algunas",
+  "en": "Some"
+ },
+ "491": {
+  "rank": 492,
+  "type": "",
+  "word": "basta",
+  "en": "That's enough."
+ },
+ "492": {
+  "rank": 493,
+  "type": "",
+  "word": "ei",
+  "en": "ei"
+ },
+ "493": {
+  "rank": 494,
+  "type": "",
+  "word": "arma",
+  "en": "gun"
+ },
+ "494": {
+  "rank": 495,
+  "type": "",
+  "word": "vino",
+  "en": "Wine"
+ },
+ "495": {
+  "rank": 496,
+  "type": "",
+  "word": "meses",
+  "en": "months"
+ },
+ "496": {
+  "rank": 497,
+  "type": "",
+  "word": "cuarto",
+  "en": "Room"
+ },
+ "497": {
+  "rank": 498,
+  "type": "",
+  "word": "éste",
+  "en": "This one"
+ },
+ "498": {
+  "rank": 499,
+  "type": "",
+  "word": "escuela",
+  "en": "School"
+ },
+ "499": {
+  "rank": 500,
+  "type": "",
+  "word": "esté",
+  "en": "Be careful."
+ },
+ "500": {
+  "rank": 501,
+  "type": "",
+  "word": "dólares",
+  "en": "dollars"
+ },
+ "501": {
+  "rank": 502,
+  "type": "",
+  "word": "tío",
+  "en": "Uncle"
+ },
+ "502": {
+  "rank": 503,
+  "type": "",
+  "word": "posible",
+  "en": "possible"
+ },
+ "503": {
+  "rank": 504,
+  "type": "",
+  "word": "tuve",
+  "en": "I had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had had"
+ },
+ "504": {
+  "rank": 505,
+  "type": "",
+  "word": "fácil",
+  "en": "Easy."
+ },
+ "505": {
+  "rank": 506,
+  "type": "",
+  "word": "preocupes",
+  "en": "I'm sorry."
+ },
+ "506": {
+  "rank": 507,
+  "type": "",
+  "word": "jack",
+  "en": "jack"
+ },
+ "507": {
+  "rank": 508,
+  "type": "",
+  "word": "luz",
+  "en": "light"
+ },
+ "508": {
+  "rank": 509,
+  "type": "",
+  "word": "eran",
+  "en": "They were"
+ },
+ "509": {
+  "rank": 510,
+  "type": "",
+  "word": "carajo",
+  "en": "Fuck!"
+ },
+ "510": {
+  "rank": 511,
+  "type": "",
+  "word": "final",
+  "en": "Final"
+ },
+ "511": {
+  "rank": 512,
+  "type": "",
+  "word": "lista",
+  "en": "List"
+ },
+ "512": {
+  "rank": 513,
+  "type": "",
+  "word": "trata",
+  "en": "trafficking"
+ },
+ "513": {
+  "rank": 514,
+  "type": "",
+  "word": "armas",
+  "en": "weapons"
+ },
+ "514": {
+  "rank": 515,
+  "type": "",
+  "word": "hermana",
+  "en": "sister"
+ },
+ "515": {
+  "rank": 516,
+  "type": "",
+  "word": "exactamente",
+  "en": "Exactly exactly."
+ },
+ "516": {
+  "rank": 517,
+  "type": "",
+  "word": "chicas",
+  "en": "Girls"
+ },
+ "517": {
+  "rank": 518,
+  "type": "",
+  "word": "podía",
+  "en": "I could."
+ },
+ "518": {
+  "rank": 519,
+  "type": "",
+  "word": "bastante",
+  "en": "Pretty much."
+ },
+ "519": {
+  "rank": 520,
+  "type": "",
+  "word": "seguridad",
+  "en": "security"
+ },
+ "520": {
+  "rank": 521,
+  "type": "",
+  "word": "pasando",
+  "en": "It's happening."
+ },
+ "521": {
+  "rank": 522,
+  "type": "",
+  "word": "esperando",
+  "en": "waiting"
+ },
+ "522": {
+  "rank": 523,
+  "type": "",
+  "word": "acá",
+  "en": "Here."
+ },
+ "523": {
+  "rank": 524,
+  "type": "",
+  "word": "teléfono",
+  "en": "Telephone"
+ },
+ "524": {
+  "rank": 525,
+  "type": "",
+  "word": "perro",
+  "en": "dog"
+ },
+ "525": {
+  "rank": 526,
+  "type": "",
+  "word": "fuego",
+  "en": "Fire"
+ },
+ "526": {
+  "rank": 527,
+  "type": "",
+  "word": "murió",
+  "en": "She died."
+ },
+ "527": {
+  "rank": 528,
+  "type": "",
+  "word": "tampoco",
+  "en": "Neither either."
+ },
+ "528": {
+  "rank": 529,
+  "type": "",
+  "word": "sola",
+  "en": "alone"
+ },
+ "529": {
+  "rank": 530,
+  "type": "",
+  "word": "estuvo",
+  "en": "It was"
+ },
+ "530": {
+  "rank": 531,
+  "type": "",
+  "word": "verte",
+  "en": "See you."
+ },
+ "531": {
+  "rank": 532,
+  "type": "",
+  "word": "iré",
+  "en": "I'll go."
+ },
+ "532": {
+  "rank": 533,
+  "type": "",
+  "word": "tenido",
+  "en": "I had to."
+ },
+ "533": {
+  "rank": 534,
+  "type": "",
+  "word": "culpa",
+  "en": "Guilty."
+ },
+ "534": {
+  "rank": 535,
+  "type": "",
+  "word": "veras",
+  "en": "I will."
+ },
+ "535": {
+  "rank": 536,
+  "type": "",
+  "word": "adónde",
+  "en": "where"
+ },
+ "536": {
+  "rank": 537,
+  "type": "",
+  "word": "buscando",
+  "en": "Searching"
+ },
+ "537": {
+  "rank": 538,
+  "type": "",
+  "word": "cuanto",
+  "en": "The"
+ },
+ "538": {
+  "rank": 539,
+  "type": "",
+  "word": "padres",
+  "en": "parents"
+ },
+ "539": {
+  "rank": 540,
+  "type": "",
+  "word": "paz",
+  "en": "peace"
+ },
+ "540": {
+  "rank": 541,
+  "type": "",
+  "word": "demonios",
+  "en": "The hell."
+ },
+ "541": {
+  "rank": 542,
+  "type": "",
+  "word": "estará",
+  "en": "He'll be there."
+ },
+ "542": {
+  "rank": 543,
+  "type": "",
+  "word": "cual",
+  "en": "which"
+ },
+ "543": {
+  "rank": 544,
+  "type": "",
+  "word": "perdón",
+  "en": "Sorry."
+ },
+ "544": {
+  "rank": 545,
+  "type": "",
+  "word": "asi",
+  "en": "Like this."
+ },
+ "545": {
+  "rank": 546,
+  "type": "",
+  "word": "jugar",
+  "en": "play"
+ },
+ "546": {
+  "rank": 547,
+  "type": "",
+  "word": "pensando",
+  "en": "thinking"
+ },
+ "547": {
+  "rank": 548,
+  "type": "",
+  "word": "esperar",
+  "en": "Wait."
+ },
+ "548": {
+  "rank": 549,
+  "type": "",
+  "word": "sabemos",
+  "en": "We know."
+ },
+ "549": {
+  "rank": 550,
+  "type": "",
+  "word": "recuerdo",
+  "en": "I remember."
+ },
+ "550": {
+  "rank": 551,
+  "type": "",
+  "word": "par",
+  "en": "pair"
+ },
+ "551": {
+  "rank": 552,
+  "type": "",
+  "word": "joven",
+  "en": "young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young young"
+ },
+ "552": {
+  "rank": 553,
+  "type": "",
+  "word": "seguir",
+  "en": "to continue"
+ },
+ "553": {
+  "rank": 554,
+  "type": "",
+  "word": "pueblo",
+  "en": "people"
+ },
+ "554": {
+  "rank": 555,
+  "type": "",
+  "word": "tenga",
+  "en": "Have some."
+ },
+ "555": {
+  "rank": 556,
+  "type": "",
+  "word": "caballeros",
+  "en": "Gentlemen."
+ },
+ "556": {
+  "rank": 557,
+  "type": "",
+  "word": "idiota",
+  "en": "idiot."
+ },
+ "557": {
+  "rank": 558,
+  "type": "",
+  "word": "dio",
+  "en": "He gave it."
+ },
+ "558": {
+  "rank": 559,
+  "type": "",
+  "word": "minuto",
+  "en": "♪"
+ },
+ "559": {
+  "rank": 560,
+  "type": "",
+  "word": "bebé",
+  "en": "baby"
+ },
+ "560": {
+  "rank": 561,
+  "type": "",
+  "word": "única",
+  "en": "unique"
+ },
+ "561": {
+  "rank": 562,
+  "type": "",
+  "word": "lejos",
+  "en": "far away"
+ },
+ "562": {
+  "rank": 563,
+  "type": "",
+  "word": "nuestras",
+  "en": "Ours"
+ },
+ "563": {
+  "rank": 564,
+  "type": "",
+  "word": "plan",
+  "en": "plan"
+ },
+ "564": {
+  "rank": 565,
+  "type": "",
+  "word": "pienso",
+  "en": "I think I'm thinking."
+ },
+ "565": {
+  "rank": 566,
+  "type": "",
+  "word": "sentido",
+  "en": "sense"
+ },
+ "566": {
+  "rank": 567,
+  "type": "",
+  "word": "dormir",
+  "en": "sleep"
+ },
+ "567": {
+  "rank": 568,
+  "type": "",
+  "word": "digas",
+  "en": "Say it."
+ },
+ "568": {
+  "rank": 569,
+  "type": "",
+  "word": "palabra",
+  "en": "word"
+ },
+ "569": {
+  "rank": 570,
+  "type": "",
+  "word": "correcto",
+  "en": "Right."
+ },
+ "570": {
+  "rank": 571,
+  "type": "",
+  "word": "control",
+  "en": "control"
+ },
+ "571": {
+  "rank": 572,
+  "type": "",
+  "word": "vemos",
+  "en": "See you."
+ },
+ "572": {
+  "rank": 573,
+  "type": "",
+  "word": "entiendes",
+  "en": "You understand."
+ },
+ "573": {
+  "rank": 574,
+  "type": "",
+  "word": "país",
+  "en": "country"
+ },
+ "574": {
+  "rank": 575,
+  "type": "",
+  "word": "seis",
+  "en": "Six"
+ },
+ "575": {
+  "rank": 576,
+  "type": "",
+  "word": "último",
+  "en": "last"
+ },
+ "576": {
+  "rank": 577,
+  "type": "",
+  "word": "ésta",
+  "en": "This one."
+ },
+ "577": {
+  "rank": 578,
+  "type": "",
+  "word": "diga",
+  "en": "Say"
+ },
+ "578": {
+  "rank": 579,
+  "type": "",
+  "word": "podrías",
+  "en": "You could."
+ },
+ "579": {
+  "rank": 580,
+  "type": "",
+  "word": "pequeña",
+  "en": "Little"
+ },
+ "580": {
+  "rank": 581,
+  "type": "",
+  "word": "cállate",
+  "en": "Shut up."
+ },
+ "581": {
+  "rank": 582,
+  "type": "",
+  "word": "trato",
+  "en": "treatment"
+ },
+ "582": {
+  "rank": 583,
+  "type": "",
+  "word": "rey",
+  "en": "King"
+ },
+ "583": {
+  "rank": 584,
+  "type": "",
+  "word": "sucede",
+  "en": "It happens."
+ },
+ "584": {
+  "rank": 585,
+  "type": "",
+  "word": "sam",
+  "en": "sam"
+ },
+ "585": {
+  "rank": 586,
+  "type": "",
+  "word": "muchachos",
+  "en": "Boys"
+ },
+ "586": {
+  "rank": 587,
+  "type": "",
+  "word": "jamás",
+  "en": "never."
+ },
+ "587": {
+  "rank": 588,
+  "type": "",
+  "word": "cama",
+  "en": "bed"
+ },
+ "588": {
+  "rank": 589,
+  "type": "",
+  "word": "srta",
+  "en": "cake"
+ },
+ "589": {
+  "rank": 590,
+  "type": "",
+  "word": "ayudar",
+  "en": "help"
+ },
+ "590": {
+  "rank": 591,
+  "type": "",
+  "word": "acerca",
+  "en": "♪"
+ },
+ "591": {
+  "rank": 592,
+  "type": "",
+  "word": "di",
+  "en": "di"
+ },
+ "592": {
+  "rank": 593,
+  "type": "",
+  "word": "cambio",
+  "en": "change"
+ },
+ "593": {
+  "rank": 594,
+  "type": "",
+  "word": "falta",
+  "en": "There's no need to go."
+ },
+ "594": {
+  "rank": 595,
+  "type": "",
+  "word": "hospital",
+  "en": "hospital"
+ },
+ "595": {
+  "rank": 596,
+  "type": "",
+  "word": "lleva",
+  "en": "Take it."
+ },
+ "596": {
+  "rank": 597,
+  "type": "",
+  "word": "presidente",
+  "en": "President"
+ },
+ "597": {
+  "rank": 598,
+  "type": "",
+  "word": "mil",
+  "en": "a thousand"
+ },
+ "598": {
+  "rank": 599,
+  "type": "",
+  "word": "gusto",
+  "en": "drip"
+ },
+ "599": {
+  "rank": 600,
+  "type": "",
+  "word": "conoces",
+  "en": "You know,"
+ },
+ "600": {
+  "rank": 601,
+  "type": "",
+  "word": "diciendo",
+  "en": "saying"
+ },
+ "601": {
+  "rank": 602,
+  "type": "",
+  "word": "os",
+  "en": "os"
+ },
+ "602": {
+  "rank": 603,
+  "type": "",
+  "word": "ido",
+  "en": "Gone."
+ },
+ "603": {
+  "rank": 604,
+  "type": "",
+  "word": "general",
+  "en": "General"
+ },
+ "604": {
+  "rank": 605,
+  "type": "",
+  "word": "extraño",
+  "en": "Strange."
+ },
+ "605": {
+  "rank": 606,
+  "type": "",
+  "word": "semanas",
+  "en": "weeks"
+ },
+ "606": {
+  "rank": 607,
+  "type": "",
+  "word": "coche",
+  "en": "car"
+ },
+ "607": {
+  "rank": 608,
+  "type": "",
+  "word": "peor",
+  "en": "worse"
+ },
+ "608": {
+  "rank": 609,
+  "type": "",
+  "word": "mucha",
+  "en": "A lot."
+ },
+ "609": {
+  "rank": 610,
+  "type": "",
+  "word": "disculpe",
+  "en": "Excuse me."
+ },
+ "610": {
+  "rank": 611,
+  "type": "",
+  "word": "diré",
+  "en": "I'll say"
+ },
+ "611": {
+  "rank": 612,
+  "type": "",
+  "word": "anoche",
+  "en": "Last night."
+ },
+ "612": {
+  "rank": 613,
+  "type": "",
+  "word": "perder",
+  "en": "lose"
+ },
+ "613": {
+  "rank": 614,
+  "type": "",
+  "word": "vámonos",
+  "en": "Let's go."
+ },
+ "614": {
+  "rank": 615,
+  "type": "",
+  "word": "nave",
+  "en": "ship"
+ },
+ "615": {
+  "rank": 616,
+  "type": "",
+  "word": "cielo",
+  "en": "Heavens"
+ },
+ "616": {
+  "rank": 617,
+  "type": "",
+  "word": "habrá",
+  "en": "There will be"
+ },
+ "617": {
+  "rank": 618,
+  "type": "",
+  "word": "orden",
+  "en": "order"
+ },
+ "618": {
+  "rank": 619,
+  "type": "",
+  "word": "segura",
+  "en": "Safe."
+ },
+ "619": {
+  "rank": 620,
+  "type": "",
+  "word": "querida",
+  "en": "Dear"
+ },
+ "620": {
+  "rank": 621,
+  "type": "",
+  "word": "niña",
+  "en": "girl"
+ },
+ "621": {
+  "rank": 622,
+  "type": "",
+  "word": "michael",
+  "en": "michael"
+ },
+ "622": {
+  "rank": 623,
+  "type": "",
+  "word": "increíble",
+  "en": "Amazing."
+ },
+ "623": {
+  "rank": 624,
+  "type": "",
+  "word": "además",
+  "en": "also"
+ },
+ "624": {
+  "rank": 625,
+  "type": "",
+  "word": "deben",
+  "en": "must"
+ },
+ "625": {
+  "rank": 626,
+  "type": "",
+  "word": "libro",
+  "en": "book"
+ },
+ "626": {
+  "rank": 627,
+  "type": "",
+  "word": "calle",
+  "en": "Street"
+ },
+ "627": {
+  "rank": 628,
+  "type": "",
+  "word": "café",
+  "en": "coffee"
+ },
+ "628": {
+  "rank": 629,
+  "type": "",
+  "word": "piensas",
+  "en": "Think about it."
+ },
+ "629": {
+  "rank": 630,
+  "type": "",
+  "word": "hacemos",
+  "en": "We do."
+ },
+ "630": {
+  "rank": 631,
+  "type": "",
+  "word": "especial",
+  "en": "special"
+ },
+ "631": {
+  "rank": 632,
+  "type": "",
+  "word": "queremos",
+  "en": "We want to."
+ },
+ "632": {
+  "rank": 633,
+  "type": "",
+  "word": "ia",
+  "en": "ia"
+ },
+ "633": {
+  "rank": 634,
+  "type": "",
+  "word": "clark",
+  "en": "clark"
+ },
+ "634": {
+  "rank": 635,
+  "type": "",
+  "word": "irme",
+  "en": "I'll go."
+ },
+ "635": {
+  "rank": 636,
+  "type": "",
+  "word": "perfecto",
+  "en": "perfect."
+ },
+ "636": {
+  "rank": 637,
+  "type": "",
+  "word": "buscar",
+  "en": "search"
+ },
+ "637": {
+  "rank": 638,
+  "type": "",
+  "word": "odio",
+  "en": "hate"
+ },
+ "638": {
+  "rank": 639,
+  "type": "",
+  "word": "piensa",
+  "en": "Think"
+ },
+ "639": {
+  "rank": 640,
+  "type": "",
+  "word": "oficina",
+  "en": "Office"
+ },
+ "640": {
+  "rank": 641,
+  "type": "",
+  "word": "hablas",
+  "en": "You talk."
+ },
+ "641": {
+  "rank": 642,
+  "type": "",
+  "word": "libre",
+  "en": "free"
+ },
+ "642": {
+  "rank": 643,
+  "type": "",
+  "word": "agente",
+  "en": "Agent"
+ },
+ "643": {
+  "rank": 644,
+  "type": "",
+  "word": "york",
+  "en": "york"
+ },
+ "644": {
+  "rank": 645,
+  "type": "",
+  "word": "llamar",
+  "en": "Call"
+ },
+ "645": {
+  "rank": 646,
+  "type": "",
+  "word": "mala",
+  "en": "Bad."
+ },
+ "646": {
+  "rank": 647,
+  "type": "",
+  "word": "detrás",
+  "en": "behind"
+ },
+ "647": {
+  "rank": 648,
+  "type": "",
+  "word": "viste",
+  "en": "See."
+ },
+ "648": {
+  "rank": 649,
+  "type": "",
+  "word": "dile",
+  "en": "Tell him."
+ },
+ "649": {
+  "rank": 650,
+  "type": "",
+  "word": "grandes",
+  "en": "big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big big"
+ },
+ "650": {
+  "rank": 651,
+  "type": "",
+  "word": "recuerdas",
+  "en": "Remember"
+ },
+ "651": {
+  "rank": 652,
+  "type": "",
+  "word": "real",
+  "en": "Real"
+ },
+ "652": {
+  "rank": 653,
+  "type": "",
+  "word": "estaban",
+  "en": "They were"
+ },
+ "653": {
+  "rank": 654,
+  "type": "",
+  "word": "mía",
+  "en": "Mine."
+ },
+ "654": {
+  "rank": 655,
+  "type": "",
+  "word": "frente",
+  "en": "front"
+ },
+ "655": {
+  "rank": 656,
+  "type": "",
+  "word": "perdido",
+  "en": "lost"
+ },
+ "656": {
+  "rank": 657,
+  "type": "",
+  "word": "llamo",
+  "en": "My name is"
+ },
+ "657": {
+  "rank": 658,
+  "type": "",
+  "word": "muertos",
+  "en": "dead"
+ },
+ "658": {
+  "rank": 659,
+  "type": "",
+  "word": "millones",
+  "en": "millions"
+ },
+ "659": {
+  "rank": 660,
+  "type": "",
+  "word": "asesino",
+  "en": "Killer"
+ },
+ "660": {
+  "rank": 661,
+  "type": "",
+  "word": "sueño",
+  "en": "dream"
+ },
+ "661": {
+  "rank": 662,
+  "type": "",
+  "word": "quisiera",
+  "en": "I wish."
+ },
+ "662": {
+  "rank": 663,
+  "type": "",
+  "word": "habría",
+  "en": "would"
+ },
+ "663": {
+  "rank": 664,
+  "type": "",
+  "word": "hará",
+  "en": "I will."
+ },
+ "664": {
+  "rank": 665,
+  "type": "",
+  "word": "viaje",
+  "en": "travel"
+ },
+ "665": {
+  "rank": 666,
+  "type": "",
+  "word": "probablemente",
+  "en": "Probably."
+ },
+ "666": {
+  "rank": 667,
+  "type": "",
+  "word": "peter",
+  "en": "peter"
+ },
+ "667": {
+  "rank": 668,
+  "type": "",
+  "word": "resto",
+  "en": "other"
+ },
+ "668": {
+  "rank": 669,
+  "type": "",
+  "word": "estaré",
+  "en": "I'll be there."
+ },
+ "669": {
+  "rank": 670,
+  "type": "",
+  "word": "maldición",
+  "en": "Damn it!"
+ },
+ "670": {
+  "rank": 671,
+  "type": "",
+  "word": "lamento",
+  "en": "Sorry."
+ },
+ "671": {
+  "rank": 672,
+  "type": "",
+  "word": "muchacho",
+  "en": "boy boy boy boy"
+ },
+ "672": {
+  "rank": 673,
+  "type": "",
+  "word": "avión",
+  "en": "airplane"
+ },
+ "673": {
+  "rank": 674,
+  "type": "",
+  "word": "ropa",
+  "en": "clothes"
+ },
+ "674": {
+  "rank": 675,
+  "type": "",
+  "word": "fuerza",
+  "en": "strength"
+ },
+ "675": {
+  "rank": 676,
+  "type": "",
+  "word": "llamado",
+  "en": "Call"
+ },
+ "676": {
+  "rank": 677,
+  "type": "",
+  "word": "oído",
+  "en": "ear"
+ },
+ "677": {
+  "rank": 678,
+  "type": "",
+  "word": "frank",
+  "en": "Frank"
+ },
+ "678": {
+  "rank": 679,
+  "type": "",
+  "word": "dado",
+  "en": "given"
+ },
+ "679": {
+  "rank": 680,
+  "type": "",
+  "word": "encima",
+  "en": "above"
+ },
+ "680": {
+  "rank": 681,
+  "type": "",
+  "word": "negro",
+  "en": "Black"
+ },
+ "681": {
+  "rank": 682,
+  "type": "",
+  "word": "usar",
+  "en": "oar"
+ },
+ "682": {
+  "rank": 683,
+  "type": "",
+  "word": "información",
+  "en": "information"
+ },
+ "683": {
+  "rank": 684,
+  "type": "",
+  "word": "uds",
+  "en": "You"
+ },
+ "684": {
+  "rank": 685,
+  "type": "",
+  "word": "preguntas",
+  "en": "questions"
+ },
+ "685": {
+  "rank": 686,
+  "type": "",
+  "word": "tuvo",
+  "en": "had"
+ },
+ "686": {
+  "rank": 687,
+  "type": "",
+  "word": "secreto",
+  "en": "secret"
+ },
+ "687": {
+  "rank": 688,
+  "type": "",
+  "word": "vuelve",
+  "en": "Come back."
+ },
+ "688": {
+  "rank": 689,
+  "type": "",
+  "word": "miren",
+  "en": "Look."
+ },
+ "689": {
+  "rank": 690,
+  "type": "",
+  "word": "quieras",
+  "en": "You want"
+ },
+ "690": {
+  "rank": 691,
+  "type": "",
+  "word": "haría",
+  "en": "I would."
+ },
+ "691": {
+  "rank": 692,
+  "type": "",
+  "word": "acaba",
+  "en": "It's just..."
+ },
+ "692": {
+  "rank": 693,
+  "type": "",
+  "word": "otras",
+  "en": "Other"
+ },
+ "693": {
+  "rank": 694,
+  "type": "",
+  "word": "incluso",
+  "en": "even"
+ },
+ "694": {
+  "rank": 695,
+  "type": "",
+  "word": "sientes",
+  "en": "You feel sorry."
+ },
+ "695": {
+  "rank": 696,
+  "type": "",
+  "word": "deberíamos",
+  "en": "We should."
+ },
+ "696": {
+  "rank": 697,
+  "type": "",
+  "word": "haz",
+  "en": "Do it."
+ },
+ "697": {
+  "rank": 698,
+  "type": "",
+  "word": "decirte",
+  "en": "Tell you to tell me"
+ },
+ "698": {
+  "rank": 699,
+  "type": "",
+  "word": "boca",
+  "en": "mouth"
+ },
+ "699": {
+  "rank": 700,
+  "type": "",
+  "word": "dolor",
+  "en": "pain"
+ },
+ "700": {
+  "rank": 701,
+  "type": "",
+  "word": "baño",
+  "en": "bathroom"
+ },
+ "701": {
+  "rank": 702,
+  "type": "",
+  "word": "adentro",
+  "en": "inside"
+ },
+ "702": {
+  "rank": 703,
+  "type": "",
+  "word": "profesor",
+  "en": "Professor"
+ },
+ "703": {
+  "rank": 704,
+  "type": "",
+  "word": "habitación",
+  "en": "Room"
+ },
+ "704": {
+  "rank": 705,
+  "type": "",
+  "word": "daño",
+  "en": "damage"
+ },
+ "705": {
+  "rank": 706,
+  "type": "",
+  "word": "tuyo",
+  "en": "Yours"
+ },
+ "706": {
+  "rank": 707,
+  "type": "",
+  "word": "seas",
+  "en": "You."
+ },
+ "707": {
+  "rank": 708,
+  "type": "",
+  "word": "noticias",
+  "en": "news"
+ },
+ "708": {
+  "rank": 709,
+  "type": "",
+  "word": "demás",
+  "en": "other"
+ },
+ "709": {
+  "rank": 710,
+  "type": "",
+  "word": "querido",
+  "en": "Dear"
+ },
+ "710": {
+  "rank": 711,
+  "type": "",
+  "word": "duro",
+  "en": "hard."
+ },
+ "711": {
+  "rank": 712,
+  "type": "",
+  "word": "poner",
+  "en": "Put"
+ },
+ "712": {
+  "rank": 713,
+  "type": "",
+  "word": "prueba",
+  "en": "Test"
+ },
+ "713": {
+  "rank": 714,
+  "type": "",
+  "word": "mire",
+  "en": "Look."
+ },
+ "714": {
+  "rank": 715,
+  "type": "",
+  "word": "tonto",
+  "en": "dumb fool"
+ },
+ "715": {
+  "rank": 716,
+  "type": "",
+  "word": "campo",
+  "en": "field"
+ },
+ "716": {
+  "rank": 717,
+  "type": "",
+  "word": "siendo",
+  "en": "being"
+ },
+ "717": {
+  "rank": 718,
+  "type": "",
+  "word": "diez",
+  "en": "Ten"
+ },
+ "718": {
+  "rank": 719,
+  "type": "",
+  "word": "ése",
+  "en": "That's it."
+ },
+ "719": {
+  "rank": 720,
+  "type": "",
+  "word": "tranquilo",
+  "en": "quietly"
+ },
+ "720": {
+  "rank": 721,
+  "type": "",
+  "word": "asunto",
+  "en": "matter"
+ },
+ "721": {
+  "rank": 722,
+  "type": "",
+  "word": "acabó",
+  "en": "It's over."
+ },
+ "722": {
+  "rank": 723,
+  "type": "",
+  "word": "quédate",
+  "en": "Stay here."
+ },
+ "723": {
+  "rank": 724,
+  "type": "",
+  "word": "derecho",
+  "en": "right"
+ },
+ "724": {
+  "rank": 725,
+  "type": "",
+  "word": "placer",
+  "en": "pleasure"
+ },
+ "725": {
+  "rank": 726,
+  "type": "",
+  "word": "recuerda",
+  "en": "Remember"
+ },
+ "726": {
+  "rank": 727,
+  "type": "",
+  "word": "estuve",
+  "en": "I was."
+ },
+ "727": {
+  "rank": 728,
+  "type": "",
+  "word": "tratando",
+  "en": "trying to"
+ },
+ "728": {
+  "rank": 729,
+  "type": "",
+  "word": "ejército",
+  "en": "Army"
+ },
+ "729": {
+  "rank": 730,
+  "type": "",
+  "word": "futuro",
+  "en": "future"
+ },
+ "730": {
+  "rank": 731,
+  "type": "",
+  "word": "llevar",
+  "en": "Take it."
+ },
+ "731": {
+  "rank": 732,
+  "type": "",
+  "word": "compañía",
+  "en": "company"
+ },
+ "732": {
+  "rank": 733,
+  "type": "",
+  "word": "venido",
+  "en": "Come on."
+ },
+ "733": {
+  "rank": 734,
+  "type": "",
+  "word": "listos",
+  "en": "Ready."
+ },
+ "734": {
+  "rank": 735,
+  "type": "",
+  "word": "haremos",
+  "en": "We will."
+ },
+ "735": {
+  "rank": 736,
+  "type": "",
+  "word": "sitio",
+  "en": "site"
+ },
+ "736": {
+  "rank": 737,
+  "type": "",
+  "word": "verlo",
+  "en": "See you."
+ },
+ "737": {
+  "rank": 738,
+  "type": "",
+  "word": "puesto",
+  "en": "post"
+ },
+ "738": {
+  "rank": 739,
+  "type": "",
+  "word": "atención",
+  "en": "attention"
+ },
+ "739": {
+  "rank": 740,
+  "type": "",
+  "word": "sino",
+  "en": "But it's not a problem."
+ },
+ "740": {
+  "rank": 741,
+  "type": "",
+  "word": "cambiar",
+  "en": "change"
+ },
+ "741": {
+  "rank": 742,
+  "type": "",
+  "word": "error",
+  "en": "error"
+ },
+ "742": {
+  "rank": 743,
+  "type": "",
+  "word": "blanco",
+  "en": "white"
+ },
+ "743": {
+  "rank": 744,
+  "type": "",
+  "word": "raro",
+  "en": "Weird."
+ },
+ "744": {
+  "rank": 745,
+  "type": "",
+  "word": "palabras",
+  "en": "words"
+ },
+ "745": {
+  "rank": 746,
+  "type": "",
+  "word": "llegó",
+  "en": "He's here."
+ },
+ "746": {
+  "rank": 747,
+  "type": "",
+  "word": "sal",
+  "en": "salt"
+ },
+ "747": {
+  "rank": 748,
+  "type": "",
+  "word": "pase",
+  "en": "Pass"
+ },
+ "748": {
+  "rank": 749,
+  "type": "",
+  "word": "mente",
+  "en": "mind"
+ },
+ "749": {
+  "rank": 750,
+  "type": "",
+  "word": "sistema",
+  "en": "system"
+ },
+ "750": {
+  "rank": 751,
+  "type": "",
+  "word": "película",
+  "en": "movie"
+ },
+ "751": {
+  "rank": 752,
+  "type": "",
+  "word": "anda",
+  "en": "Anda"
+ },
+ "752": {
+  "rank": 753,
+  "type": "",
+  "word": "ello",
+  "en": "that"
+ },
+ "753": {
+  "rank": 754,
+  "type": "",
+  "word": "negocio",
+  "en": "business"
+ },
+ "754": {
+  "rank": 755,
+  "type": "",
+  "word": "novia",
+  "en": "girlfriend"
+ },
+ "755": {
+  "rank": 756,
+  "type": "",
+  "word": "permiso",
+  "en": "permission"
+ },
+ "756": {
+  "rank": 757,
+  "type": "",
+  "word": "creí",
+  "en": "I thought"
+ },
+ "757": {
+  "rank": 758,
+  "type": "",
+  "word": "suena",
+  "en": "Sounds like"
+ },
+ "758": {
+  "rank": 759,
+  "type": "",
+  "word": "ocurre",
+  "en": "It happens."
+ },
+ "759": {
+  "rank": 760,
+  "type": "",
+  "word": "oficial",
+  "en": "Officer"
+ },
+ "760": {
+  "rank": 761,
+  "type": "",
+  "word": "espere",
+  "en": "Wait."
+ },
+ "761": {
+  "rank": 762,
+  "type": "",
+  "word": "aire",
+  "en": "Air"
+ },
+ "762": {
+  "rank": 763,
+  "type": "",
+  "word": "george",
+  "en": "george"
+ },
+ "763": {
+  "rank": 764,
+  "type": "",
+  "word": "mató",
+  "en": "killed him."
+ },
+ "764": {
+  "rank": 765,
+  "type": "",
+  "word": "harry",
+  "en": "Harry."
+ },
+ "765": {
+  "rank": 766,
+  "type": "",
+  "word": "regresar",
+  "en": "return"
+ },
+ "766": {
+  "rank": 767,
+  "type": "",
+  "word": "vio",
+  "en": "He saw"
+ },
+ "767": {
+  "rank": 768,
+  "type": "",
+  "word": "hazlo",
+  "en": "Do it."
+ },
+ "768": {
+  "rank": 769,
+  "type": "",
+  "word": "trasero",
+  "en": "ass"
+ },
+ "769": {
+  "rank": 770,
+  "type": "",
+  "word": "grupo",
+  "en": "group"
+ },
+ "770": {
+  "rank": 771,
+  "type": "",
+  "word": "entendido",
+  "en": "Understanding"
+ },
+ "771": {
+  "rank": 772,
+  "type": "",
+  "word": "señorita",
+  "en": "Miss."
+ },
+ "772": {
+  "rank": 773,
+  "type": "",
+  "word": "música",
+  "en": "music"
+ },
+ "773": {
+  "rank": 774,
+  "type": "",
+  "word": "perra",
+  "en": "bitch."
+ },
+ "774": {
+  "rank": 775,
+  "type": "",
+  "word": "conoce",
+  "en": "You know,"
+ },
+ "775": {
+  "rank": 776,
+  "type": "",
+  "word": "empezar",
+  "en": "Start"
+ },
+ "776": {
+  "rank": 777,
+  "type": "",
+  "word": "siente",
+  "en": "Feels sorry."
+ },
+ "777": {
+  "rank": 778,
+  "type": "",
+  "word": "acabo",
+  "en": "I'm done."
+ },
+ "778": {
+  "rank": 779,
+  "type": "",
+  "word": "estúpido",
+  "en": "Stupid stupid."
+ },
+ "779": {
+  "rank": 780,
+  "type": "",
+  "word": "diferente",
+  "en": "different"
+ },
+ "780": {
+  "rank": 781,
+  "type": "",
+  "word": "traje",
+  "en": "suit."
+ },
+ "781": {
+  "rank": 782,
+  "type": "",
+  "word": "modo",
+  "en": "mode"
+ },
+ "782": {
+  "rank": 783,
+  "type": "",
+  "word": "james",
+  "en": "ha"
+ },
+ "783": {
+  "rank": 784,
+  "type": "",
+  "word": "encontré",
+  "en": "I found it."
+ },
+ "784": {
+  "rank": 785,
+  "type": "",
+  "word": "mensaje",
+  "en": "message"
+ },
+ "785": {
+  "rank": 786,
+  "type": "",
+  "word": "llamada",
+  "en": "Call"
+ },
+ "786": {
+  "rank": 787,
+  "type": "",
+  "word": "navidad",
+  "en": "Christmas"
+ },
+ "787": {
+  "rank": 788,
+  "type": "",
+  "word": "eras",
+  "en": "were"
+ },
+ "788": {
+  "rank": 789,
+  "type": "",
+  "word": "pena",
+  "en": "Pity"
+ },
+ "789": {
+  "rank": 790,
+  "type": "",
+  "word": "largo",
+  "en": "long"
+ },
+ "790": {
+  "rank": 791,
+  "type": "",
+  "word": "entra",
+  "en": "Come in."
+ },
+ "791": {
+  "rank": 792,
+  "type": "",
+  "word": "piso",
+  "en": "Floor"
+ },
+ "792": {
+  "rank": 793,
+  "type": "",
+  "word": "foto",
+  "en": "photo"
+ },
+ "793": {
+  "rank": 794,
+  "type": "",
+  "word": "dijeron",
+  "en": "said"
+ },
+ "794": {
+  "rank": 795,
+  "type": "",
+  "word": "médico",
+  "en": "doctor"
+ },
+ "795": {
+  "rank": 796,
+  "type": "",
+  "word": "accidente",
+  "en": "accident"
+ },
+ "796": {
+  "rank": 797,
+  "type": "",
+  "word": "fuiste",
+  "en": "You're gone."
+ },
+ "797": {
+  "rank": 798,
+  "type": "",
+  "word": "imposible",
+  "en": "impossible."
+ },
+ "798": {
+  "rank": 799,
+  "type": "",
+  "word": "podríamos",
+  "en": "We could."
+ },
+ "799": {
+  "rank": 800,
+  "type": "",
+  "word": "línea",
+  "en": "line"
+ },
+ "800": {
+  "rank": 801,
+  "type": "",
+  "word": "propia",
+  "en": "own"
+ },
+ "801": {
+  "rank": 802,
+  "type": "",
+  "word": "barco",
+  "en": "Boat"
+ },
+ "802": {
+  "rank": 803,
+  "type": "",
+  "word": "ganar",
+  "en": "win."
+ },
+ "803": {
+  "rank": 804,
+  "type": "",
+  "word": "normal",
+  "en": "normal"
+ },
+ "804": {
+  "rank": 805,
+  "type": "",
+  "word": "segundos",
+  "en": "seconds"
+ },
+ "805": {
+  "rank": 806,
+  "type": "",
+  "word": "vive",
+  "en": "lives."
+ },
+ "806": {
+  "rank": 807,
+  "type": "",
+  "word": "mitad",
+  "en": "half"
+ },
+ "807": {
+  "rank": 808,
+  "type": "",
+  "word": "quiera",
+  "en": "I want to."
+ },
+ "808": {
+  "rank": 809,
+  "type": "",
+  "word": "tras",
+  "en": "after"
+ },
+ "809": {
+  "rank": 810,
+  "type": "",
+  "word": "decirle",
+  "en": "Tell him to tell him to tell him"
+ },
+ "810": {
+  "rank": 811,
+  "type": "",
+  "word": "lindo",
+  "en": "Nice."
+ },
+ "811": {
+  "rank": 812,
+  "type": "",
+  "word": "funciona",
+  "en": "It works."
+ },
+ "812": {
+  "rank": 813,
+  "type": "",
+  "word": "programa",
+  "en": "programme"
+ },
+ "813": {
+  "rank": 814,
+  "type": "",
+  "word": "vine",
+  "en": "I came."
+ },
+ "814": {
+  "rank": 815,
+  "type": "",
+  "word": "abre",
+  "en": "Open up."
+ },
+ "815": {
+  "rank": 816,
+  "type": "",
+  "word": "sean",
+  "en": "Whatever."
+ },
+ "816": {
+  "rank": 817,
+  "type": "",
+  "word": "pagar",
+  "en": "payable"
+ },
+ "817": {
+  "rank": 818,
+  "type": "",
+  "word": "fotos",
+  "en": "photos"
+ },
+ "818": {
+  "rank": 819,
+  "type": "",
+  "word": "centro",
+  "en": "downtown"
+ },
+ "819": {
+  "rank": 820,
+  "type": "",
+  "word": "supone",
+  "en": "I'm supposed to be."
+ },
+ "820": {
+  "rank": 821,
+  "type": "",
+  "word": "basura",
+  "en": "garbage garbage garbage garbage"
+ },
+ "821": {
+  "rank": 822,
+  "type": "",
+  "word": "situación",
+  "en": "situation"
+ },
+ "822": {
+  "rank": 823,
+  "type": "",
+  "word": "mejores",
+  "en": "better"
+ },
+ "823": {
+  "rank": 824,
+  "type": "",
+  "word": "vienen",
+  "en": "Come on."
+ },
+ "824": {
+  "rank": 825,
+  "type": "",
+  "word": "encanta",
+  "en": "Lovely."
+ },
+ "825": {
+  "rank": 826,
+  "type": "",
+  "word": "marido",
+  "en": "husband"
+ },
+ "826": {
+  "rank": 827,
+  "type": "",
+  "word": "personal",
+  "en": "staff"
+ },
+ "827": {
+  "rank": 828,
+  "type": "",
+  "word": "maestro",
+  "en": "Master"
+ },
+ "828": {
+  "rank": 829,
+  "type": "",
+  "word": "hambre",
+  "en": "hunger"
+ },
+ "829": {
+  "rank": 830,
+  "type": "",
+  "word": "ataque",
+  "en": "Attack"
+ },
+ "830": {
+  "rank": 831,
+  "type": "",
+  "word": "culo",
+  "en": "ass"
+ },
+ "831": {
+  "rank": 832,
+  "type": "",
+  "word": "dale",
+  "en": "da"
+ },
+ "832": {
+  "rank": 833,
+  "type": "",
+  "word": "pie",
+  "en": "foot"
+ },
+ "833": {
+  "rank": 834,
+  "type": "",
+  "word": "conseguir",
+  "en": "get"
+ },
+ "834": {
+  "rank": 835,
+  "type": "",
+  "word": "trabajando",
+  "en": "working"
+ },
+ "835": {
+  "rank": 836,
+  "type": "",
+  "word": "gracioso",
+  "en": "Funny."
+ },
+ "836": {
+  "rank": 837,
+  "type": "",
+  "word": "dejó",
+  "en": "left."
+ },
+ "837": {
+  "rank": 838,
+  "type": "",
+  "word": "pudo",
+  "en": "He could."
+ },
+ "838": {
+  "rank": 839,
+  "type": "",
+  "word": "derecha",
+  "en": "Right."
+ },
+ "839": {
+  "rank": 840,
+  "type": "",
+  "word": "izquierda",
+  "en": "Left"
+ },
+ "840": {
+  "rank": 841,
+  "type": "",
+  "word": "próxima",
+  "en": "Next"
+ },
+ "841": {
+  "rank": 842,
+  "type": "",
+  "word": "pobre",
+  "en": "poor poor"
+ },
+ "842": {
+  "rank": 843,
+  "type": "",
+  "word": "respuesta",
+  "en": "response"
+ },
+ "843": {
+  "rank": 844,
+  "type": "",
+  "word": "tipos",
+  "en": "types"
+ },
+ "844": {
+  "rank": 845,
+  "type": "",
+  "word": "sentir",
+  "en": "feel"
+ },
+ "845": {
+  "rank": 846,
+  "type": "",
+  "word": "tenías",
+  "en": "had"
+ },
+ "846": {
+  "rank": 847,
+  "type": "",
+  "word": "pude",
+  "en": "I could."
+ },
+ "847": {
+  "rank": 848,
+  "type": "",
+  "word": "darle",
+  "en": "Give it to him."
+ },
+ "848": {
+  "rank": 849,
+  "type": "",
+  "word": "voz",
+  "en": "voice"
+ },
+ "849": {
+  "rank": 850,
+  "type": "",
+  "word": "amiga",
+  "en": "friend"
+ },
+ "850": {
+  "rank": 851,
+  "type": "",
+  "word": "gustan",
+  "en": "Gotta"
+ },
+ "851": {
+  "rank": 852,
+  "type": "",
+  "word": "vista",
+  "en": "View"
+ },
+ "852": {
+  "rank": 853,
+  "type": "",
+  "word": "salvo",
+  "en": "Safe"
+ },
+ "853": {
+  "rank": 854,
+  "type": "",
+  "word": "loca",
+  "en": "crazy."
+ },
+ "854": {
+  "rank": 855,
+  "type": "",
+  "word": "hotel",
+  "en": "hotel"
+ },
+ "855": {
+  "rank": 856,
+  "type": "",
+  "word": "hicieron",
+  "en": "did"
+ },
+ "856": {
+  "rank": 857,
+  "type": "",
+  "word": "ten",
+  "en": "Ten."
+ },
+ "857": {
+  "rank": 858,
+  "type": "",
+  "word": "temo",
+  "en": "I'm afraid"
+ },
+ "858": {
+  "rank": 859,
+  "type": "",
+  "word": "señal",
+  "en": "signal"
+ },
+ "859": {
+  "rank": 860,
+  "type": "",
+  "word": "pelo",
+  "en": "Hair"
+ },
+ "860": {
+  "rank": 861,
+  "type": "",
+  "word": "llevo",
+  "en": "I'll take a ride."
+ },
+ "861": {
+  "rank": 862,
+  "type": "",
+  "word": "ayer",
+  "en": "yesterday"
+ },
+ "862": {
+  "rank": 863,
+  "type": "",
+  "word": "das",
+  "en": "da"
+ },
+ "863": {
+  "rank": 864,
+  "type": "",
+  "word": "nena",
+  "en": "Baby"
+ },
+ "864": {
+  "rank": 865,
+  "type": "",
+  "word": "servicio",
+  "en": "Service"
+ },
+ "865": {
+  "rank": 866,
+  "type": "",
+  "word": "tren",
+  "en": "train"
+ },
+ "866": {
+  "rank": 867,
+  "type": "",
+  "word": "tom",
+  "en": "tom"
+ },
+ "867": {
+  "rank": 868,
+  "type": "",
+  "word": "bonito",
+  "en": "Nice."
+ },
+ "868": {
+  "rank": 869,
+  "type": "",
+  "word": "mes",
+  "en": "month"
+ },
+ "869": {
+  "rank": 870,
+  "type": "",
+  "word": "tendrá",
+  "en": "will"
+ },
+ "870": {
+  "rank": 871,
+  "type": "",
+  "word": "tendrás",
+  "en": "You'll have to."
+ },
+ "871": {
+  "rank": 872,
+  "type": "",
+  "word": "edad",
+  "en": "Age"
+ },
+ "872": {
+  "rank": 873,
+  "type": "",
+  "word": "ellas",
+  "en": "them."
+ },
+ "873": {
+  "rank": 874,
+  "type": "",
+  "word": "hermosa",
+  "en": "beautiful"
+ },
+ "874": {
+  "rank": 875,
+  "type": "",
+  "word": "ben",
+  "en": "♪"
+ },
+ "875": {
+  "rank": 876,
+  "type": "",
+  "word": "honor",
+  "en": "honour"
+ },
+ "876": {
+  "rank": 877,
+  "type": "",
+  "word": "simplemente",
+  "en": "simply"
+ },
+ "877": {
+  "rank": 878,
+  "type": "",
+  "word": "llamas",
+  "en": "Flame."
+ },
+ "878": {
+  "rank": 879,
+  "type": "",
+  "word": "tengas",
+  "en": "Have some."
+ },
+ "879": {
+  "rank": 880,
+  "type": "",
+  "word": "corre",
+  "en": "Run."
+ },
+ "880": {
+  "rank": 881,
+  "type": "",
+  "word": "baja",
+  "en": "Low"
+ },
+ "881": {
+  "rank": 882,
+  "type": "",
+  "word": "sol",
+  "en": "sun"
+ },
+ "882": {
+  "rank": 883,
+  "type": "",
+  "word": "siéntate",
+  "en": "Sit down."
+ },
+ "883": {
+  "rank": 884,
+  "type": "",
+  "word": "dan",
+  "en": "dan"
+ },
+ "884": {
+  "rank": 885,
+  "type": "",
+  "word": "humano",
+  "en": "human"
+ },
+ "885": {
+  "rank": 886,
+  "type": "",
+  "word": "divertido",
+  "en": "Funny."
+ },
+ "886": {
+  "rank": 887,
+  "type": "",
+  "word": "sexo",
+  "en": "sex"
+ },
+ "887": {
+  "rank": 888,
+  "type": "",
+  "word": "vuelto",
+  "en": "back."
+ },
+ "888": {
+  "rank": 889,
+  "type": "",
+  "word": "peligro",
+  "en": "danger"
+ },
+ "889": {
+  "rank": 890,
+  "type": "",
+  "word": "mesa",
+  "en": "table"
+ },
+ "890": {
+  "rank": 891,
+  "type": "",
+  "word": "jimmy",
+  "en": "jimmy"
+ },
+ "891": {
+  "rank": 892,
+  "type": "",
+  "word": "siguiente",
+  "en": "Next"
+ },
+ "892": {
+  "rank": 893,
+  "type": "",
+  "word": "hablo",
+  "en": "I'm talking."
+ },
+ "893": {
+  "rank": 894,
+  "type": "",
+  "word": "disculpa",
+  "en": "Excuse me."
+ },
+ "894": {
+  "rank": 895,
+  "type": "",
+  "word": "decirme",
+  "en": "Tell me."
+ },
+ "895": {
+  "rank": 896,
+  "type": "",
+  "word": "joe",
+  "en": "♪"
+ },
+ "896": {
+  "rank": 897,
+  "type": "",
+  "word": "caja",
+  "en": "Box"
+ },
+ "897": {
+  "rank": 898,
+  "type": "",
+  "word": "negocios",
+  "en": "Business"
+ },
+ "898": {
+  "rank": 899,
+  "type": "",
+  "word": "misión",
+  "en": "mission"
+ },
+ "899": {
+  "rank": 900,
+  "type": "",
+  "word": "silencio",
+  "en": "silence"
+ },
+ "900": {
+  "rank": 901,
+  "type": "",
+  "word": "sale",
+  "en": "Come on."
+ },
+ "901": {
+  "rank": 902,
+  "type": "",
+  "word": "llegado",
+  "en": "♪"
+ },
+ "902": {
+  "rank": 903,
+  "type": "",
+  "word": "estaría",
+  "en": "I would be."
+ },
+ "903": {
+  "rank": 904,
+  "type": "",
+  "word": "regreso",
+  "en": "return"
+ },
+ "904": {
+  "rank": 905,
+  "type": "",
+  "word": "media",
+  "en": "average"
+ },
+ "905": {
+  "rank": 906,
+  "type": "",
+  "word": "estan",
+  "en": "They are."
+ },
+ "906": {
+  "rank": 907,
+  "type": "",
+  "word": "propio",
+  "en": "own"
+ },
+ "907": {
+  "rank": 908,
+  "type": "",
+  "word": "charlie",
+  "en": "charlie"
+ },
+ "908": {
+  "rank": 909,
+  "type": "",
+  "word": "oro",
+  "en": "Gold"
+ },
+ "909": {
+  "rank": 910,
+  "type": "",
+  "word": "enseguida",
+  "en": "I'll be right back."
+ },
+ "910": {
+  "rank": 911,
+  "type": "",
+  "word": "linda",
+  "en": "Cute."
+ },
+ "911": {
+  "rank": 912,
+  "type": "",
+  "word": "prometo",
+  "en": "I promise."
+ },
+ "912": {
+  "rank": 913,
+  "type": "",
+  "word": "esposo",
+  "en": "husband"
+ },
+ "913": {
+  "rank": 914,
+  "type": "",
+  "word": "norte",
+  "en": "North"
+ },
+ "914": {
+  "rank": 915,
+  "type": "",
+  "word": "hubo",
+  "en": "There was"
+ },
+ "915": {
+  "rank": 916,
+  "type": "",
+  "word": "juro",
+  "en": "I swear."
+ },
+ "916": {
+  "rank": 917,
+  "type": "",
+  "word": "muerta",
+  "en": "dead."
+ },
+ "917": {
+  "rank": 918,
+  "type": "",
+  "word": "interesante",
+  "en": "Interesting"
+ },
+ "918": {
+  "rank": 919,
+  "type": "",
+  "word": "pensaba",
+  "en": "I was thinking."
+ },
+ "919": {
+  "rank": 920,
+  "type": "",
+  "word": "busca",
+  "en": "Search"
+ },
+ "920": {
+  "rank": 921,
+  "type": "",
+  "word": "terminar",
+  "en": "finish"
+ },
+ "921": {
+  "rank": 922,
+  "type": "",
+  "word": "tendré",
+  "en": "I will."
+ },
+ "922": {
+  "rank": 923,
+  "type": "",
+  "word": "completamente",
+  "en": "completely"
+ },
+ "923": {
+  "rank": 924,
+  "type": "",
+  "word": "cita",
+  "en": "Date"
+ },
+ "924": {
+  "rank": 925,
+  "type": "",
+  "word": "siete",
+  "en": "Seven"
+ },
+ "925": {
+  "rank": 926,
+  "type": "",
+  "word": "cumpleaños",
+  "en": "Birthday"
+ },
+ "926": {
+  "rank": 927,
+  "type": "",
+  "word": "abogado",
+  "en": "counsel"
+ },
+ "927": {
+  "rank": 928,
+  "type": "",
+  "word": "alrededor",
+  "en": "around"
+ },
+ "928": {
+  "rank": 929,
+  "type": "",
+  "word": "cerebro",
+  "en": "brain"
+ },
+ "929": {
+  "rank": 930,
+  "type": "",
+  "word": "porqué",
+  "en": "Why?"
+ },
+ "930": {
+  "rank": 931,
+  "type": "",
+  "word": "llave",
+  "en": "Key"
+ },
+ "931": {
+  "rank": 932,
+  "type": "",
+  "word": "santo",
+  "en": "Holy"
+ },
+ "932": {
+  "rank": 933,
+  "type": "",
+  "word": "hermoso",
+  "en": "beautiful"
+ },
+ "933": {
+  "rank": 934,
+  "type": "",
+  "word": "necesario",
+  "en": "necessary"
+ },
+ "934": {
+  "rank": 935,
+  "type": "",
+  "word": "edificio",
+  "en": "building"
+ },
+ "935": {
+  "rank": 936,
+  "type": "",
+  "word": "irnos",
+  "en": "Let's go."
+ },
+ "936": {
+  "rank": 937,
+  "type": "",
+  "word": "aun",
+  "en": "even"
+ },
+ "937": {
+  "rank": 938,
+  "type": "",
+  "word": "tendremos",
+  "en": "We'll have to have a chance."
+ },
+ "938": {
+  "rank": 939,
+  "type": "",
+  "word": "vayas",
+  "en": "Go."
+ },
+ "939": {
+  "rank": 940,
+  "type": "",
+  "word": "doy",
+  "en": "I'll give"
+ },
+ "940": {
+  "rank": 941,
+  "type": "",
+  "word": "trae",
+  "en": "Bring it."
+ },
+ "941": {
+  "rank": 942,
+  "type": "",
+  "word": "salió",
+  "en": "It went out."
+ },
+ "942": {
+  "rank": 943,
+  "type": "",
+  "word": "ley",
+  "en": "Law"
+ },
+ "943": {
+  "rank": 944,
+  "type": "",
+  "word": "ahi",
+  "en": "There"
+ },
+ "944": {
+  "rank": 945,
+  "type": "",
+  "word": "verdadero",
+  "en": "true"
+ },
+ "945": {
+  "rank": 946,
+  "type": "",
+  "word": "pelea",
+  "en": "fight"
+ },
+ "946": {
+  "rank": 947,
+  "type": "",
+  "word": "banco",
+  "en": "bank"
+ },
+ "947": {
+  "rank": 948,
+  "type": "",
+  "word": "terrible",
+  "en": "Terrible."
+ },
+ "948": {
+  "rank": 949,
+  "type": "",
+  "word": "calma",
+  "en": "Calm down."
+ },
+ "949": {
+  "rank": 950,
+  "type": "",
+  "word": "cena",
+  "en": "Dinner"
+ },
+ "950": {
+  "rank": 951,
+  "type": "",
+  "word": "daré",
+  "en": "I'll give it."
+ },
+ "951": {
+  "rank": 952,
+  "type": "",
+  "word": "gobierno",
+  "en": "government"
+ },
+ "952": {
+  "rank": 953,
+  "type": "",
+  "word": "comprar",
+  "en": "purchase"
+ },
+ "953": {
+  "rank": 954,
+  "type": "",
+  "word": "creen",
+  "en": "They think they're gonna believe they're gonna believe they're gonna believe they're gonna believe they're gonna believe they're gonna believe they're gonna believe they're gonna believe they're gonna believe they're gonna believe they're gonna believe they're gonna believe they're gonna believe they're gonna believe they're gonna believe they're gonna believe they're gonna believe they think they're gonna believe they think they're gonna believe they're gonna believe they think they're gonna believe they're gonna believe they're gonna believe they're gonna believe they think they think they're thinking they're gonna believe they're gonna believe they're gonna believe they think they think they're gonna believe they're gonna believe they think they're thinking they're gonna believe they're gonna believe they're thinking they're thinking they're thinking they're thinking they're gonna believe they're gonna believe they're gonna believe they're thinking they're thinking they're thinking they're thinking they're thinking they're thinking they're gonna believe they're thinking they're thinking they"
+ },
+ "954": {
+  "rank": 955,
+  "type": "",
+  "word": "sargento",
+  "en": "Sergeant"
+ },
+ "955": {
+  "rank": 956,
+  "type": "",
+  "word": "destino",
+  "en": "destination"
+ },
+ "956": {
+  "rank": 957,
+  "type": "",
+  "word": "bob",
+  "en": "bob"
+ },
+ "957": {
+  "rank": 958,
+  "type": "",
+  "word": "existe",
+  "en": "There exists"
+ },
+ "958": {
+  "rank": 959,
+  "type": "",
+  "word": "hacía",
+  "en": "I did."
+ },
+ "959": {
+  "rank": 960,
+  "type": "",
+  "word": "novio",
+  "en": "boyfriend"
+ },
+ "960": {
+  "rank": 961,
+  "type": "",
+  "word": "sala",
+  "en": "Room"
+ },
+ "961": {
+  "rank": 962,
+  "type": "",
+  "word": "través",
+  "en": "Through"
+ },
+ "962": {
+  "rank": 963,
+  "type": "",
+  "word": "regalo",
+  "en": "gift gift"
+ },
+ "963": {
+  "rank": 964,
+  "type": "",
+  "word": "iglesia",
+  "en": "church"
+ },
+ "964": {
+  "rank": 965,
+  "type": "",
+  "word": "decía",
+  "en": "I said"
+ },
+ "965": {
+  "rank": 966,
+  "type": "",
+  "word": "cualquiera",
+  "en": "Anyone"
+ },
+ "966": {
+  "rank": 967,
+  "type": "",
+  "word": "excelente",
+  "en": "excellent"
+ },
+ "967": {
+  "rank": 968,
+  "type": "",
+  "word": "esperen",
+  "en": "Wait."
+ },
+ "968": {
+  "rank": 969,
+  "type": "",
+  "word": "deseo",
+  "en": "desire"
+ },
+ "969": {
+  "rank": 970,
+  "type": "",
+  "word": "alma",
+  "en": "soul"
+ },
+ "970": {
+  "rank": 971,
+  "type": "",
+  "word": "diablo",
+  "en": "Fuck."
+ },
+ "971": {
+  "rank": 972,
+  "type": "",
+  "word": "deje",
+  "en": "Let go"
+ },
+ "972": {
+  "rank": 973,
+  "type": "",
+  "word": "cuántos",
+  "en": "How many"
+ },
+ "973": {
+  "rank": 974,
+  "type": "",
+  "word": "espada",
+  "en": "sword"
+ },
+ "974": {
+  "rank": 975,
+  "type": "",
+  "word": "estábamos",
+  "en": "We were."
+ },
+ "975": {
+  "rank": 976,
+  "type": "",
+  "word": "carne",
+  "en": "meat"
+ },
+ "976": {
+  "rank": 977,
+  "type": "",
+  "word": "maravilloso",
+  "en": "Wonderful."
+ },
+ "977": {
+  "rank": 978,
+  "type": "",
+  "word": "vidas",
+  "en": "lives"
+ },
+ "978": {
+  "rank": 979,
+  "type": "",
+  "word": "sucedió",
+  "en": "It happened."
+ },
+ "979": {
+  "rank": 980,
+  "type": "",
+  "word": "oí",
+  "en": "I heard"
+ },
+ "980": {
+  "rank": 981,
+  "type": "",
+  "word": "peligroso",
+  "en": "dangerous"
+ },
+ "981": {
+  "rank": 982,
+  "type": "",
+  "word": "dirección",
+  "en": "address"
+ },
+ "982": {
+  "rank": 983,
+  "type": "",
+  "word": "libertad",
+  "en": "freedom"
+ },
+ "983": {
+  "rank": 984,
+  "type": "",
+  "word": "jesús",
+  "en": "jesús"
+ },
+ "984": {
+  "rank": 985,
+  "type": "",
+  "word": "ocurrió",
+  "en": "It happened."
+ },
+ "985": {
+  "rank": 986,
+  "type": "",
+  "word": "veré",
+  "en": "See you."
+ },
+ "986": {
+  "rank": 987,
+  "type": "",
+  "word": "sueños",
+  "en": "dreams"
+ },
+ "987": {
+  "rank": 988,
+  "type": "",
+  "word": "pudiera",
+  "en": "I could."
+ },
+ "988": {
+  "rank": 989,
+  "type": "",
+  "word": "detective",
+  "en": "Detective"
+ },
+ "989": {
+  "rank": 990,
+  "type": "",
+  "word": "sorpresa",
+  "en": "surprise"
+ },
+ "990": {
+  "rank": 991,
+  "type": "",
+  "word": "tuya",
+  "en": "yours"
+ },
+ "991": {
+  "rank": 992,
+  "type": "",
+  "word": "pies",
+  "en": "feet"
+ },
+ "992": {
+  "rank": 993,
+  "type": "",
+  "word": "club",
+  "en": "club"
+ },
+ "993": {
+  "rank": 994,
+  "type": "",
+  "word": "terminado",
+  "en": "finished"
+ },
+ "994": {
+  "rank": 995,
+  "type": "",
+  "word": "infierno",
+  "en": "Hell."
+ },
+ "995": {
+  "rank": 996,
+  "type": "",
+  "word": "creía",
+  "en": "I thought."
+ },
+ "996": {
+  "rank": 997,
+  "type": "",
+  "word": "luna",
+  "en": "Moon"
+ },
+ "997": {
+  "rank": 998,
+  "type": "",
+  "word": "salvar",
+  "en": "Save it."
+ },
+ "998": {
+  "rank": 999,
+  "type": "",
+  "word": "carta",
+  "en": "Letter"
+ },
+ "999": {
+  "rank": 1000,
+  "type": "",
+  "word": "estés",
+  "en": "Be careful."
+ }
+}
